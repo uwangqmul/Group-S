@@ -1,0 +1,1001 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
+346665430,SushiGo,3,GAME_OVER,60,0,2,2,Basic MCTS,41.0,62.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+879079583,SushiGo,3,GAME_OVER,61,0,2,3,RandomPlayer,66.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-619666105,SushiGo,3,GAME_OVER,60,0,2,4,SushigoAgentBKP,58.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+503938916,SushiGo,3,GAME_OVER,61,0,2,5,SushigoAgentBKP,66.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-428737539,SushiGo,3,GAME_OVER,60,0,2,6,Basic MCTS,44.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1745970416,SushiGo,3,GAME_OVER,62,0,2,7,Basic MCTS,44.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1436161366,SushiGo,3,GAME_OVER,60,0,2,8,SushigoAgentBKP,80.0,30.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1151041315,SushiGo,3,GAME_OVER,60,0,2,9,RandomPlayer,43.0,44.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+697067980,SushiGo,3,GAME_OVER,60,0,2,10,Basic MCTS,45.0,63.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1168140970,SushiGo,3,GAME_OVER,60,0,2,11,Basic MCTS,48.0,79.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1491060889,SushiGo,3,GAME_OVER,61,0,2,12,RandomPlayer,57.0,31.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1819802610,SushiGo,3,GAME_OVER,61,0,2,13,RandomPlayer,44.0,60.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2121274456,SushiGo,3,GAME_OVER,62,0,2,14,Basic MCTS,56.0,88.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+259280696,SushiGo,3,GAME_OVER,60,0,2,15,SushigoAgentBKP,82.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1706137030,SushiGo,3,GAME_OVER,60,0,2,16,RandomPlayer,73.0,56.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+545138396,SushiGo,3,GAME_OVER,62,0,2,17,Basic MCTS,34.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1376458976,SushiGo,3,GAME_OVER,60,0,2,18,SushigoAgentBKP,77.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1195311045,SushiGo,3,GAME_OVER,61,0,2,19,SushigoAgentBKP,37.0,69.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+813477029,SushiGo,3,GAME_OVER,60,0,2,20,SushigoAgentBKP,63.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1466178614,SushiGo,3,GAME_OVER,61,0,2,21,RandomPlayer,33.0,35.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-118322159,SushiGo,3,GAME_OVER,61,0,2,22,Basic MCTS,57.0,81.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1428166355,SushiGo,3,GAME_OVER,60,0,2,23,Basic MCTS,46.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1144294523,SushiGo,3,GAME_OVER,62,0,2,24,RandomPlayer,87.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2100098225,SushiGo,3,GAME_OVER,61,0,2,25,RandomPlayer,45.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+23994827,SushiGo,3,GAME_OVER,60,0,2,26,Basic MCTS,37.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1662792176,SushiGo,3,GAME_OVER,60,0,2,27,RandomPlayer,53.0,41.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2013120665,SushiGo,3,GAME_OVER,60,0,2,28,SushigoAgentBKP,48.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1880183632,SushiGo,3,GAME_OVER,63,0,2,29,Basic MCTS,38.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1377239692,SushiGo,3,GAME_OVER,60,0,2,30,SushigoAgentBKP,50.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1795532617,SushiGo,3,GAME_OVER,63,0,2,31,SushigoAgentBKP,48.0,52.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1548656463,SushiGo,3,GAME_OVER,61,0,2,32,SushigoAgentBKP,47.0,50.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-653656736,SushiGo,3,GAME_OVER,60,0,2,33,Basic MCTS,46.0,74.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-400394132,SushiGo,3,GAME_OVER,64,0,2,34,RandomPlayer,60.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1422203009,SushiGo,3,GAME_OVER,62,0,2,35,SushigoAgentBKP,51.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1113178468,SushiGo,3,GAME_OVER,60,0,2,36,Basic MCTS,36.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-175367348,SushiGo,3,GAME_OVER,62,0,2,37,RandomPlayer,65.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1362911089,SushiGo,3,GAME_OVER,60,0,2,38,SushigoAgentBKP,38.0,46.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-347120262,SushiGo,3,GAME_OVER,62,0,2,39,Basic MCTS,49.0,59.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1416514647,SushiGo,3,GAME_OVER,60,0,2,40,SushigoAgentBKP,65.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1570736736,SushiGo,3,GAME_OVER,61,0,2,41,RandomPlayer,46.0,43.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1532681659,SushiGo,3,GAME_OVER,61,0,2,42,Basic MCTS,43.0,50.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2038358424,SushiGo,3,GAME_OVER,60,0,2,43,Basic MCTS,39.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1950377550,SushiGo,3,GAME_OVER,60,0,2,44,Basic MCTS,54.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-389679841,SushiGo,3,GAME_OVER,61,0,2,45,RandomPlayer,72.0,32.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1652369011,SushiGo,3,GAME_OVER,60,0,2,46,SushigoAgentBKP,51.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+649728961,SushiGo,3,GAME_OVER,61,0,2,47,SushigoAgentBKP,71.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1939385821,SushiGo,3,GAME_OVER,61,0,2,48,RandomPlayer,53.0,62.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-765151654,SushiGo,3,GAME_OVER,60,0,2,49,Basic MCTS,41.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-382843140,SushiGo,3,GAME_OVER,60,0,2,50,SushigoAgentBKP,49.0,59.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1616233144,SushiGo,3,GAME_OVER,60,0,2,51,Basic MCTS,37.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1825767405,SushiGo,3,GAME_OVER,63,0,2,52,RandomPlayer,71.0,49.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1681345762,SushiGo,3,GAME_OVER,60,0,2,53,SushigoAgentBKP,70.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1466223696,SushiGo,3,GAME_OVER,60,0,2,54,RandomPlayer,41.0,40.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-898042700,SushiGo,3,GAME_OVER,63,0,2,55,Basic MCTS,34.0,53.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-622095176,SushiGo,3,GAME_OVER,65,0,2,56,Basic MCTS,50.0,83.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1621553363,SushiGo,3,GAME_OVER,62,0,2,57,SushigoAgentBKP,57.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2021511387,SushiGo,3,GAME_OVER,64,0,2,58,SushigoAgentBKP,58.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1677040338,SushiGo,3,GAME_OVER,60,0,2,59,SushigoAgentBKP,49.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1955989905,SushiGo,3,GAME_OVER,60,0,2,60,Basic MCTS,41.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1876231119,SushiGo,3,GAME_OVER,61,0,2,61,RandomPlayer,66.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1294795098,SushiGo,3,GAME_OVER,60,0,2,62,SushigoAgentBKP,69.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+127372284,SushiGo,3,GAME_OVER,64,0,2,63,RandomPlayer,58.0,48.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-991207967,SushiGo,3,GAME_OVER,60,0,2,64,SushigoAgentBKP,47.0,58.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1049258221,SushiGo,3,GAME_OVER,63,0,2,65,Basic MCTS,35.0,50.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2039767727,SushiGo,3,GAME_OVER,60,0,2,66,SushigoAgentBKP,63.0,55.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1908179359,SushiGo,3,GAME_OVER,61,0,2,67,Basic MCTS,38.0,64.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1115136563,SushiGo,3,GAME_OVER,63,0,2,68,RandomPlayer,45.0,45.0,SushigoAgentBKP,1,RandomPlayer,1,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,-1
+-1493045323,SushiGo,3,GAME_OVER,60,0,2,69,Basic MCTS,37.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-394703714,SushiGo,3,GAME_OVER,62,0,2,70,Basic MCTS,37.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-432712488,SushiGo,3,GAME_OVER,61,0,2,71,SushigoAgentBKP,42.0,51.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+491282519,SushiGo,3,GAME_OVER,60,0,2,72,Basic MCTS,35.0,72.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-884033504,SushiGo,3,GAME_OVER,61,0,2,73,Basic MCTS,49.0,75.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+991772015,SushiGo,3,GAME_OVER,62,0,2,74,SushigoAgentBKP,54.0,53.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-835279488,SushiGo,3,GAME_OVER,60,0,2,75,Basic MCTS,53.0,79.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+288423849,SushiGo,3,GAME_OVER,62,0,2,76,RandomPlayer,76.0,55.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+306462715,SushiGo,3,GAME_OVER,60,0,2,77,RandomPlayer,47.0,65.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1595934290,SushiGo,3,GAME_OVER,63,0,2,78,Basic MCTS,49.0,64.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+372545689,SushiGo,3,GAME_OVER,61,0,2,79,SushigoAgentBKP,57.0,29.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1791317608,SushiGo,3,GAME_OVER,62,0,2,80,SushigoAgentBKP,65.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+594493312,SushiGo,3,GAME_OVER,62,0,2,81,Basic MCTS,44.0,63.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1375946348,SushiGo,3,GAME_OVER,62,0,2,82,Basic MCTS,43.0,58.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1004766817,SushiGo,3,GAME_OVER,61,0,2,83,RandomPlayer,62.0,29.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+714044006,SushiGo,3,GAME_OVER,61,0,2,84,SushigoAgentBKP,33.0,45.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1418075335,SushiGo,3,GAME_OVER,61,0,2,85,Basic MCTS,24.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1141736524,SushiGo,3,GAME_OVER,61,0,2,86,RandomPlayer,60.0,41.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+443981092,SushiGo,3,GAME_OVER,60,0,2,87,SushigoAgentBKP,73.0,49.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-68629972,SushiGo,3,GAME_OVER,63,0,2,88,Basic MCTS,40.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1822990971,SushiGo,3,GAME_OVER,63,0,2,89,RandomPlayer,57.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+268448290,SushiGo,3,GAME_OVER,60,0,2,90,SushigoAgentBKP,59.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1043028123,SushiGo,3,GAME_OVER,61,0,2,91,RandomPlayer,54.0,51.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1199211999,SushiGo,3,GAME_OVER,60,0,2,92,Basic MCTS,49.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1398271441,SushiGo,3,GAME_OVER,64,0,2,93,RandomPlayer,61.0,55.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+648115670,SushiGo,3,GAME_OVER,60,0,2,94,RandomPlayer,46.0,46.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1962877811,SushiGo,3,GAME_OVER,60,0,2,95,Basic MCTS,47.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1960070630,SushiGo,3,GAME_OVER,60,0,2,96,RandomPlayer,37.0,48.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+36358070,SushiGo,3,GAME_OVER,62,0,2,97,RandomPlayer,83.0,48.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+375050126,SushiGo,3,GAME_OVER,60,0,2,98,SushigoAgentBKP,55.0,65.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1468478823,SushiGo,3,GAME_OVER,61,0,2,99,Basic MCTS,30.0,60.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-218109356,SushiGo,3,GAME_OVER,61,0,2,100,Basic MCTS,54.0,68.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-3023545,SushiGo,3,GAME_OVER,60,0,2,101,SushigoAgentBKP,77.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1504533260,SushiGo,3,GAME_OVER,60,0,2,102,Basic MCTS,41.0,60.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+731461140,SushiGo,3,GAME_OVER,62,0,2,103,RandomPlayer,74.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-784229007,SushiGo,3,GAME_OVER,60,0,2,104,RandomPlayer,60.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1136489594,SushiGo,3,GAME_OVER,60,0,2,105,SushigoAgentBKP,72.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-362921133,SushiGo,3,GAME_OVER,60,0,2,106,RandomPlayer,41.0,57.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1364054475,SushiGo,3,GAME_OVER,62,0,2,107,Basic MCTS,39.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+814423744,SushiGo,3,GAME_OVER,60,0,2,108,SushigoAgentBKP,66.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1075196489,SushiGo,3,GAME_OVER,62,0,2,109,SushigoAgentBKP,41.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1568387951,SushiGo,3,GAME_OVER,60,0,2,110,Basic MCTS,36.0,74.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1781053528,SushiGo,3,GAME_OVER,61,0,2,111,SushigoAgentBKP,53.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1606283071,SushiGo,3,GAME_OVER,60,0,2,112,Basic MCTS,40.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-543735179,SushiGo,3,GAME_OVER,60,0,2,113,RandomPlayer,40.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1674156088,SushiGo,3,GAME_OVER,61,0,2,114,Basic MCTS,44.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+166348003,SushiGo,3,GAME_OVER,60,0,2,115,SushigoAgentBKP,74.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1111867417,SushiGo,3,GAME_OVER,60,0,2,116,SushigoAgentBKP,71.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1814791316,SushiGo,3,GAME_OVER,60,0,2,117,RandomPlayer,76.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1933375635,SushiGo,3,GAME_OVER,60,0,2,118,RandomPlayer,50.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-427253403,SushiGo,3,GAME_OVER,62,0,2,119,RandomPlayer,64.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-194714209,SushiGo,3,GAME_OVER,60,0,2,120,SushigoAgentBKP,41.0,33.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-2069492797,SushiGo,3,GAME_OVER,62,0,2,121,SushigoAgentBKP,63.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1770987610,SushiGo,3,GAME_OVER,62,0,2,122,RandomPlayer,72.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+803393950,SushiGo,3,GAME_OVER,60,0,2,123,SushigoAgentBKP,85.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+729978769,SushiGo,3,GAME_OVER,60,0,2,124,SushigoAgentBKP,49.0,53.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1696041272,SushiGo,3,GAME_OVER,63,0,2,125,Basic MCTS,43.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-820865651,SushiGo,3,GAME_OVER,60,0,2,126,SushigoAgentBKP,52.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1274945941,SushiGo,3,GAME_OVER,62,0,2,127,RandomPlayer,36.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+309225253,SushiGo,3,GAME_OVER,60,0,2,128,Basic MCTS,41.0,111.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-211487773,SushiGo,3,GAME_OVER,61,0,2,129,RandomPlayer,42.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+900850219,SushiGo,3,GAME_OVER,62,0,2,130,RandomPlayer,54.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+656084288,SushiGo,3,GAME_OVER,61,0,2,131,SushigoAgentBKP,44.0,53.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-654510776,SushiGo,3,GAME_OVER,60,0,2,132,Basic MCTS,43.0,112.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+367540394,SushiGo,3,GAME_OVER,61,0,2,133,Basic MCTS,36.0,58.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+157779522,SushiGo,3,GAME_OVER,60,0,2,134,SushigoAgentBKP,53.0,49.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-742897131,SushiGo,3,GAME_OVER,61,0,2,135,Basic MCTS,39.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+936541807,SushiGo,3,GAME_OVER,60,0,2,136,Basic MCTS,37.0,72.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1110959865,SushiGo,3,GAME_OVER,60,0,2,137,RandomPlayer,44.0,36.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-492937223,SushiGo,3,GAME_OVER,60,0,2,138,SushigoAgentBKP,74.0,54.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1127983648,SushiGo,3,GAME_OVER,61,0,2,139,Basic MCTS,28.0,56.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-650173733,SushiGo,3,GAME_OVER,62,0,2,140,RandomPlayer,74.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1567683149,SushiGo,3,GAME_OVER,61,0,2,141,SushigoAgentBKP,35.0,52.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+968865470,SushiGo,3,GAME_OVER,60,0,2,142,SushigoAgentBKP,66.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2002296535,SushiGo,3,GAME_OVER,60,0,2,143,RandomPlayer,62.0,43.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+375451423,SushiGo,3,GAME_OVER,60,0,2,144,Basic MCTS,49.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2103348381,SushiGo,3,GAME_OVER,60,0,2,145,Basic MCTS,47.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1342038375,SushiGo,3,GAME_OVER,60,0,2,146,RandomPlayer,85.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1400281323,SushiGo,3,GAME_OVER,60,0,2,147,SushigoAgentBKP,72.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-96507681,SushiGo,3,GAME_OVER,64,0,2,148,SushigoAgentBKP,60.0,49.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+528391606,SushiGo,3,GAME_OVER,60,0,2,149,Basic MCTS,32.0,59.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+580954778,SushiGo,3,GAME_OVER,61,0,2,150,RandomPlayer,70.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-638561184,SushiGo,3,GAME_OVER,60,0,2,151,SushigoAgentBKP,45.0,56.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-41114663,SushiGo,3,GAME_OVER,61,0,2,152,Basic MCTS,48.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-380019667,SushiGo,3,GAME_OVER,64,0,2,153,RandomPlayer,69.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1450633361,SushiGo,3,GAME_OVER,62,0,2,154,RandomPlayer,51.0,55.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+640379295,SushiGo,3,GAME_OVER,62,0,2,155,Basic MCTS,41.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1644944599,SushiGo,3,GAME_OVER,60,0,2,156,SushigoAgentBKP,72.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1899022862,SushiGo,3,GAME_OVER,60,0,2,157,RandomPlayer,51.0,36.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1155036243,SushiGo,3,GAME_OVER,60,0,2,158,RandomPlayer,69.0,52.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1174818378,SushiGo,3,GAME_OVER,61,0,2,159,SushigoAgentBKP,28.0,44.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+60820168,SushiGo,3,GAME_OVER,60,0,2,160,SushigoAgentBKP,71.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1431110757,SushiGo,3,GAME_OVER,61,0,2,161,RandomPlayer,70.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+906021935,SushiGo,3,GAME_OVER,63,0,2,162,SushigoAgentBKP,47.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1642764399,SushiGo,3,GAME_OVER,61,0,2,163,SushigoAgentBKP,72.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1260479829,SushiGo,3,GAME_OVER,61,0,2,164,SushigoAgentBKP,83.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1535167110,SushiGo,3,GAME_OVER,61,0,2,165,RandomPlayer,48.0,50.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-62706232,SushiGo,3,GAME_OVER,60,0,2,166,Basic MCTS,49.0,64.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1844342211,SushiGo,3,GAME_OVER,64,0,2,167,SushigoAgentBKP,53.0,55.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1183809001,SushiGo,3,GAME_OVER,62,0,2,168,Basic MCTS,55.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1216514653,SushiGo,3,GAME_OVER,60,0,2,169,Basic MCTS,37.0,86.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1107139736,SushiGo,3,GAME_OVER,62,0,2,170,RandomPlayer,65.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2089678120,SushiGo,3,GAME_OVER,60,0,2,171,SushigoAgentBKP,54.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1468444482,SushiGo,3,GAME_OVER,61,0,2,172,RandomPlayer,44.0,48.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1833699295,SushiGo,3,GAME_OVER,61,0,2,173,Basic MCTS,40.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-979959618,SushiGo,3,GAME_OVER,61,0,2,174,RandomPlayer,70.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1229729805,SushiGo,3,GAME_OVER,64,0,2,175,RandomPlayer,44.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-211626887,SushiGo,3,GAME_OVER,61,0,2,176,RandomPlayer,58.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+566737520,SushiGo,3,GAME_OVER,60,0,2,177,SushigoAgentBKP,60.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-608441598,SushiGo,3,GAME_OVER,60,0,2,178,SushigoAgentBKP,100.0,47.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-946651617,SushiGo,3,GAME_OVER,61,0,2,179,SushigoAgentBKP,47.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-782323308,SushiGo,3,GAME_OVER,60,0,2,180,Basic MCTS,50.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1550042701,SushiGo,3,GAME_OVER,60,0,2,181,Basic MCTS,36.0,60.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1317486756,SushiGo,3,GAME_OVER,63,0,2,182,Basic MCTS,47.0,75.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+735747324,SushiGo,3,GAME_OVER,60,0,2,183,SushigoAgentBKP,57.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-86850142,SushiGo,3,GAME_OVER,61,0,2,184,RandomPlayer,48.0,46.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1271768864,SushiGo,3,GAME_OVER,65,0,2,185,RandomPlayer,79.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-102646906,SushiGo,3,GAME_OVER,60,0,2,186,SushigoAgentBKP,64.0,52.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-57635321,SushiGo,3,GAME_OVER,60,0,2,187,SushigoAgentBKP,51.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-631037391,SushiGo,3,GAME_OVER,62,0,2,188,Basic MCTS,35.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+488218618,SushiGo,3,GAME_OVER,64,0,2,189,RandomPlayer,65.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1889858385,SushiGo,3,GAME_OVER,61,0,2,190,RandomPlayer,45.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-623671941,SushiGo,3,GAME_OVER,63,0,2,191,Basic MCTS,35.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+187674316,SushiGo,3,GAME_OVER,60,0,2,192,SushigoAgentBKP,60.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+834216199,SushiGo,3,GAME_OVER,61,0,2,193,SushigoAgentBKP,58.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1921493154,SushiGo,3,GAME_OVER,61,0,2,194,SushigoAgentBKP,49.0,38.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+174782146,SushiGo,3,GAME_OVER,61,0,2,195,Basic MCTS,42.0,55.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-87646011,SushiGo,3,GAME_OVER,60,0,2,196,Basic MCTS,42.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1609617282,SushiGo,3,GAME_OVER,61,0,2,197,Basic MCTS,32.0,88.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1760171303,SushiGo,3,GAME_OVER,61,0,2,198,RandomPlayer,37.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-141553145,SushiGo,3,GAME_OVER,64,0,2,199,RandomPlayer,63.0,52.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1449143091,SushiGo,3,GAME_OVER,60,0,2,200,RandomPlayer,43.0,39.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-954296662,SushiGo,3,GAME_OVER,62,0,2,201,Basic MCTS,42.0,55.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-255868503,SushiGo,3,GAME_OVER,61,0,2,202,SushigoAgentBKP,63.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-116635895,SushiGo,3,GAME_OVER,61,0,2,203,SushigoAgentBKP,56.0,52.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1898534082,SushiGo,3,GAME_OVER,60,0,2,204,Basic MCTS,36.0,78.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+658393718,SushiGo,3,GAME_OVER,60,0,2,205,Basic MCTS,43.0,74.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2097534744,SushiGo,3,GAME_OVER,60,0,2,206,RandomPlayer,41.0,47.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1891851982,SushiGo,3,GAME_OVER,60,0,2,207,Basic MCTS,43.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-331426663,SushiGo,3,GAME_OVER,62,0,2,208,Basic MCTS,41.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1919103941,SushiGo,3,GAME_OVER,60,0,2,209,Basic MCTS,33.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-232742384,SushiGo,3,GAME_OVER,60,0,2,210,RandomPlayer,44.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-236564248,SushiGo,3,GAME_OVER,61,0,2,211,Basic MCTS,36.0,97.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1446486608,SushiGo,3,GAME_OVER,61,0,2,212,SushigoAgentBKP,51.0,50.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-708727847,SushiGo,3,GAME_OVER,60,0,2,213,Basic MCTS,40.0,90.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+126679867,SushiGo,3,GAME_OVER,61,0,2,214,Basic MCTS,43.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+12187170,SushiGo,3,GAME_OVER,60,0,2,215,SushigoAgentBKP,90.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-918417469,SushiGo,3,GAME_OVER,60,0,2,216,RandomPlayer,41.0,50.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2014151930,SushiGo,3,GAME_OVER,62,0,2,217,RandomPlayer,65.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+127226354,SushiGo,3,GAME_OVER,60,0,2,218,SushigoAgentBKP,95.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1842839491,SushiGo,3,GAME_OVER,61,0,2,219,RandomPlayer,73.0,52.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1475141105,SushiGo,3,GAME_OVER,60,0,2,220,SushigoAgentBKP,55.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1853943462,SushiGo,3,GAME_OVER,62,0,2,221,Basic MCTS,44.0,64.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-914735830,SushiGo,3,GAME_OVER,60,0,2,222,SushigoAgentBKP,61.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1291471089,SushiGo,3,GAME_OVER,61,0,2,223,RandomPlayer,52.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+10545401,SushiGo,3,GAME_OVER,60,0,2,224,RandomPlayer,56.0,32.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+141548111,SushiGo,3,GAME_OVER,61,0,2,225,SushigoAgentBKP,58.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1058584205,SushiGo,3,GAME_OVER,60,0,2,226,SushigoAgentBKP,63.0,32.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+211927356,SushiGo,3,GAME_OVER,65,0,2,227,RandomPlayer,65.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1029778978,SushiGo,3,GAME_OVER,61,0,2,228,SushigoAgentBKP,46.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1116669881,SushiGo,3,GAME_OVER,61,0,2,229,Basic MCTS,44.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1930847207,SushiGo,3,GAME_OVER,61,0,2,230,Basic MCTS,46.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1204042696,SushiGo,3,GAME_OVER,60,0,2,231,SushigoAgentBKP,74.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1854341258,SushiGo,3,GAME_OVER,61,0,2,232,SushigoAgentBKP,50.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+760044856,SushiGo,3,GAME_OVER,60,0,2,233,SushigoAgentBKP,69.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-230780221,SushiGo,3,GAME_OVER,62,0,2,234,RandomPlayer,37.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1500989715,SushiGo,3,GAME_OVER,60,0,2,235,Basic MCTS,42.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+751911445,SushiGo,3,GAME_OVER,60,0,2,236,SushigoAgentBKP,77.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-944442593,SushiGo,3,GAME_OVER,64,0,2,237,RandomPlayer,58.0,37.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-935277995,SushiGo,3,GAME_OVER,63,0,2,238,SushigoAgentBKP,41.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+247835695,SushiGo,3,GAME_OVER,62,0,2,239,Basic MCTS,41.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1624668346,SushiGo,3,GAME_OVER,60,0,2,240,RandomPlayer,37.0,71.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1838559114,SushiGo,3,GAME_OVER,61,0,2,241,Basic MCTS,50.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+262936474,SushiGo,3,GAME_OVER,63,0,2,242,Basic MCTS,32.0,58.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2019278420,SushiGo,3,GAME_OVER,60,0,2,243,SushigoAgentBKP,70.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1661237415,SushiGo,3,GAME_OVER,60,0,2,244,Basic MCTS,34.0,73.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+830372098,SushiGo,3,GAME_OVER,60,0,2,245,RandomPlayer,50.0,38.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1794082882,SushiGo,3,GAME_OVER,63,0,2,246,Basic MCTS,48.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2136969544,SushiGo,3,GAME_OVER,61,0,2,247,SushigoAgentBKP,59.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1613804798,SushiGo,3,GAME_OVER,60,0,2,248,SushigoAgentBKP,87.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1066856389,SushiGo,3,GAME_OVER,60,0,2,249,RandomPlayer,51.0,42.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-673053507,SushiGo,3,GAME_OVER,62,0,2,250,RandomPlayer,89.0,41.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1416735319,SushiGo,3,GAME_OVER,62,0,2,251,RandomPlayer,49.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+229958578,SushiGo,3,GAME_OVER,60,0,2,252,SushigoAgentBKP,42.0,43.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1054379448,SushiGo,3,GAME_OVER,60,0,2,253,Basic MCTS,30.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1330628683,SushiGo,3,GAME_OVER,60,0,2,254,RandomPlayer,49.0,46.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1874519790,SushiGo,3,GAME_OVER,61,0,2,255,Basic MCTS,34.0,91.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1058919192,SushiGo,3,GAME_OVER,60,0,2,256,SushigoAgentBKP,69.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+122540443,SushiGo,3,GAME_OVER,62,0,2,257,RandomPlayer,44.0,40.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-268805896,SushiGo,3,GAME_OVER,61,0,2,258,Basic MCTS,32.0,75.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-16047770,SushiGo,3,GAME_OVER,65,0,2,259,RandomPlayer,59.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1234770198,SushiGo,3,GAME_OVER,60,0,2,260,SushigoAgentBKP,47.0,42.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1276679810,SushiGo,3,GAME_OVER,60,0,2,261,Basic MCTS,36.0,69.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1886083697,SushiGo,3,GAME_OVER,64,0,2,262,RandomPlayer,88.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1885242351,SushiGo,3,GAME_OVER,60,0,2,263,RandomPlayer,51.0,48.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-633500444,SushiGo,3,GAME_OVER,62,0,2,264,Basic MCTS,33.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-187920269,SushiGo,3,GAME_OVER,61,0,2,265,Basic MCTS,38.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1623485761,SushiGo,3,GAME_OVER,63,0,2,266,RandomPlayer,65.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1504609340,SushiGo,3,GAME_OVER,60,0,2,267,SushigoAgentBKP,73.0,31.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1027072784,SushiGo,3,GAME_OVER,60,0,2,268,RandomPlayer,47.0,48.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+543626116,SushiGo,3,GAME_OVER,61,0,2,269,RandomPlayer,65.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1660374781,SushiGo,3,GAME_OVER,61,0,2,270,SushigoAgentBKP,46.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1313988885,SushiGo,3,GAME_OVER,61,0,2,271,SushigoAgentBKP,58.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+883361864,SushiGo,3,GAME_OVER,61,0,2,272,RandomPlayer,43.0,39.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+284570087,SushiGo,3,GAME_OVER,62,0,2,273,Basic MCTS,41.0,58.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+111378600,SushiGo,3,GAME_OVER,60,0,2,274,SushigoAgentBKP,102.0,47.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+290051286,SushiGo,3,GAME_OVER,61,0,2,275,RandomPlayer,54.0,41.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+455045369,SushiGo,3,GAME_OVER,60,0,2,276,Basic MCTS,39.0,56.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+292736111,SushiGo,3,GAME_OVER,60,0,2,277,Basic MCTS,47.0,81.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-727076243,SushiGo,3,GAME_OVER,62,0,2,278,RandomPlayer,76.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+580495784,SushiGo,3,GAME_OVER,63,0,2,279,SushigoAgentBKP,51.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+11224105,SushiGo,3,GAME_OVER,60,0,2,280,Basic MCTS,45.0,62.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1514313798,SushiGo,3,GAME_OVER,63,0,2,281,Basic MCTS,32.0,57.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+600547820,SushiGo,3,GAME_OVER,60,0,2,282,SushigoAgentBKP,50.0,61.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1507588019,SushiGo,3,GAME_OVER,60,0,2,283,SushigoAgentBKP,58.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-413727558,SushiGo,3,GAME_OVER,61,0,2,284,RandomPlayer,45.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1004488921,SushiGo,3,GAME_OVER,61,0,2,285,Basic MCTS,47.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-185510757,SushiGo,3,GAME_OVER,60,0,2,286,SushigoAgentBKP,66.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1193880833,SushiGo,3,GAME_OVER,61,0,2,287,SushigoAgentBKP,52.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1358361873,SushiGo,3,GAME_OVER,60,0,2,288,Basic MCTS,38.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1636702957,SushiGo,3,GAME_OVER,61,0,2,289,RandomPlayer,75.0,36.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2059998954,SushiGo,3,GAME_OVER,65,0,2,290,RandomPlayer,61.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2114075224,SushiGo,3,GAME_OVER,60,0,2,291,SushigoAgentBKP,40.0,56.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-208104913,SushiGo,3,GAME_OVER,61,0,2,292,SushigoAgentBKP,63.0,33.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-256787508,SushiGo,3,GAME_OVER,61,0,2,293,RandomPlayer,44.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+289786280,SushiGo,3,GAME_OVER,61,0,2,294,Basic MCTS,61.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1816586398,SushiGo,3,GAME_OVER,60,0,2,295,Basic MCTS,47.0,64.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-736010487,SushiGo,3,GAME_OVER,61,0,2,296,RandomPlayer,69.0,52.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1319523453,SushiGo,3,GAME_OVER,60,0,2,297,SushigoAgentBKP,60.0,47.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1424630181,SushiGo,3,GAME_OVER,60,0,2,298,SushigoAgentBKP,49.0,33.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1627701852,SushiGo,3,GAME_OVER,60,0,2,299,Basic MCTS,52.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1629666952,SushiGo,3,GAME_OVER,61,0,2,300,RandomPlayer,74.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+343781707,SushiGo,3,GAME_OVER,60,0,2,301,RandomPlayer,51.0,51.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-946487913,SushiGo,3,GAME_OVER,60,0,2,302,Basic MCTS,56.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2097273678,SushiGo,3,GAME_OVER,60,0,2,303,SushigoAgentBKP,69.0,50.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-241371289,SushiGo,3,GAME_OVER,61,0,2,304,RandomPlayer,42.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1137315069,SushiGo,3,GAME_OVER,61,0,2,305,RandomPlayer,44.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1670171071,SushiGo,3,GAME_OVER,62,0,2,306,Basic MCTS,35.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-111795509,SushiGo,3,GAME_OVER,60,0,2,307,SushigoAgentBKP,49.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+143537014,SushiGo,3,GAME_OVER,63,0,2,308,RandomPlayer,61.0,32.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1639168202,SushiGo,3,GAME_OVER,63,0,2,309,SushigoAgentBKP,46.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+485788881,SushiGo,3,GAME_OVER,60,0,2,310,SushigoAgentBKP,67.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1392189990,SushiGo,3,GAME_OVER,64,0,2,311,RandomPlayer,89.0,30.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1147876354,SushiGo,3,GAME_OVER,63,0,2,312,SushigoAgentBKP,47.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1540879951,SushiGo,3,GAME_OVER,60,0,2,313,Basic MCTS,35.0,82.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2143132553,SushiGo,3,GAME_OVER,62,0,2,314,Basic MCTS,49.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1722033092,SushiGo,3,GAME_OVER,60,0,2,315,SushigoAgentBKP,66.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1515804242,SushiGo,3,GAME_OVER,60,0,2,316,RandomPlayer,46.0,49.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-181739599,SushiGo,3,GAME_OVER,60,0,2,317,Basic MCTS,60.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-969773918,SushiGo,3,GAME_OVER,63,0,2,318,RandomPlayer,83.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-164055761,SushiGo,3,GAME_OVER,60,0,2,319,SushigoAgentBKP,47.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+9417288,SushiGo,3,GAME_OVER,61,0,2,320,Basic MCTS,39.0,77.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-238213410,SushiGo,3,GAME_OVER,63,0,2,321,RandomPlayer,65.0,55.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+811178860,SushiGo,3,GAME_OVER,60,0,2,322,RandomPlayer,42.0,31.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1391480725,SushiGo,3,GAME_OVER,60,0,2,323,RandomPlayer,40.0,52.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1289991689,SushiGo,3,GAME_OVER,63,0,2,324,Basic MCTS,47.0,89.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+57605084,SushiGo,3,GAME_OVER,62,0,2,325,Basic MCTS,38.0,72.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1596007353,SushiGo,3,GAME_OVER,61,0,2,326,RandomPlayer,45.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1349601525,SushiGo,3,GAME_OVER,62,0,2,327,SushigoAgentBKP,56.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+870779329,SushiGo,3,GAME_OVER,61,0,2,328,SushigoAgentBKP,79.0,45.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+924245394,SushiGo,3,GAME_OVER,61,0,2,329,RandomPlayer,103.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1159086972,SushiGo,3,GAME_OVER,60,0,2,330,SushigoAgentBKP,70.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-479700809,SushiGo,3,GAME_OVER,62,0,2,331,SushigoAgentBKP,45.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-644393837,SushiGo,3,GAME_OVER,60,0,2,332,SushigoAgentBKP,38.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+480101917,SushiGo,3,GAME_OVER,60,0,2,333,Basic MCTS,34.0,74.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1669812908,SushiGo,3,GAME_OVER,63,0,2,334,Basic MCTS,33.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+489412416,SushiGo,3,GAME_OVER,61,0,2,335,SushigoAgentBKP,83.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+979662955,SushiGo,3,GAME_OVER,60,0,2,336,RandomPlayer,53.0,37.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1412473080,SushiGo,3,GAME_OVER,63,0,2,337,RandomPlayer,79.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2146388626,SushiGo,3,GAME_OVER,60,0,2,338,RandomPlayer,45.0,50.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2147182603,SushiGo,3,GAME_OVER,61,0,2,339,Basic MCTS,25.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1104832282,SushiGo,3,GAME_OVER,61,0,2,340,Basic MCTS,39.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1814248263,SushiGo,3,GAME_OVER,60,0,2,341,Basic MCTS,32.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1527008370,SushiGo,3,GAME_OVER,60,0,2,342,SushigoAgentBKP,70.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1794037300,SushiGo,3,GAME_OVER,61,0,2,343,SushigoAgentBKP,51.0,35.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-2127906997,SushiGo,3,GAME_OVER,60,0,2,344,SushigoAgentBKP,35.0,52.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1670148819,SushiGo,3,GAME_OVER,63,0,2,345,Basic MCTS,31.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-64157796,SushiGo,3,GAME_OVER,60,0,2,346,Basic MCTS,38.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1156344643,SushiGo,3,GAME_OVER,62,0,2,347,Basic MCTS,44.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1667354173,SushiGo,3,GAME_OVER,63,0,2,348,SushigoAgentBKP,50.0,60.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1991378407,SushiGo,3,GAME_OVER,64,0,2,349,Basic MCTS,31.0,73.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-815366425,SushiGo,3,GAME_OVER,60,0,2,350,RandomPlayer,38.0,39.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2028093600,SushiGo,3,GAME_OVER,61,0,2,351,Basic MCTS,52.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1757712663,SushiGo,3,GAME_OVER,60,0,2,352,SushigoAgentBKP,53.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1380769061,SushiGo,3,GAME_OVER,61,0,2,353,SushigoAgentBKP,74.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+261797254,SushiGo,3,GAME_OVER,60,0,2,354,RandomPlayer,41.0,33.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1699756054,SushiGo,3,GAME_OVER,63,0,2,355,RandomPlayer,64.0,47.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+469452937,SushiGo,3,GAME_OVER,62,0,2,356,SushigoAgentBKP,65.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-3560875,SushiGo,3,GAME_OVER,61,0,2,357,Basic MCTS,35.0,62.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1396075339,SushiGo,3,GAME_OVER,61,0,2,358,RandomPlayer,68.0,58.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-590039087,SushiGo,3,GAME_OVER,60,0,2,359,RandomPlayer,54.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2049713108,SushiGo,3,GAME_OVER,60,0,2,360,SushigoAgentBKP,55.0,42.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1324681671,SushiGo,3,GAME_OVER,60,0,2,361,Basic MCTS,34.0,59.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-2092523444,SushiGo,3,GAME_OVER,63,0,2,362,Basic MCTS,42.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+59114165,SushiGo,3,GAME_OVER,60,0,2,363,SushigoAgentBKP,50.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-718186581,SushiGo,3,GAME_OVER,62,0,2,364,Basic MCTS,37.0,99.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1745731678,SushiGo,3,GAME_OVER,60,0,2,365,Basic MCTS,50.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+343420611,SushiGo,3,GAME_OVER,60,0,2,366,RandomPlayer,70.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2028987222,SushiGo,3,GAME_OVER,63,0,2,367,RandomPlayer,45.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-2032389348,SushiGo,3,GAME_OVER,64,0,2,368,Basic MCTS,50.0,64.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+279811612,SushiGo,3,GAME_OVER,60,0,2,369,SushigoAgentBKP,73.0,34.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+425500470,SushiGo,3,GAME_OVER,60,0,2,370,SushigoAgentBKP,37.0,47.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+336000187,SushiGo,3,GAME_OVER,60,0,2,371,Basic MCTS,35.0,82.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+728786988,SushiGo,3,GAME_OVER,60,0,2,372,RandomPlayer,56.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1197075173,SushiGo,3,GAME_OVER,61,0,2,373,RandomPlayer,51.0,48.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+904239831,SushiGo,3,GAME_OVER,60,0,2,374,RandomPlayer,56.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+376172960,SushiGo,3,GAME_OVER,60,0,2,375,SushigoAgentBKP,65.0,45.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-2025988394,SushiGo,3,GAME_OVER,60,0,2,376,SushigoAgentBKP,57.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+406134755,SushiGo,3,GAME_OVER,61,0,2,377,Basic MCTS,42.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1086676947,SushiGo,3,GAME_OVER,61,0,2,378,RandomPlayer,51.0,52.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+120009625,SushiGo,3,GAME_OVER,65,0,2,379,Basic MCTS,49.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-69847980,SushiGo,3,GAME_OVER,60,0,2,380,Basic MCTS,59.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-262773979,SushiGo,3,GAME_OVER,60,0,2,381,SushigoAgentBKP,69.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1864556018,SushiGo,3,GAME_OVER,61,0,2,382,SushigoAgentBKP,56.0,36.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1827839868,SushiGo,3,GAME_OVER,63,0,2,383,Basic MCTS,41.0,89.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1501271396,SushiGo,3,GAME_OVER,62,0,2,384,SushigoAgentBKP,46.0,51.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1811643888,SushiGo,3,GAME_OVER,62,0,2,385,Basic MCTS,33.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+829904959,SushiGo,3,GAME_OVER,60,0,2,386,Basic MCTS,42.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1484916497,SushiGo,3,GAME_OVER,60,0,2,387,RandomPlayer,73.0,41.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1460767789,SushiGo,3,GAME_OVER,60,0,2,388,RandomPlayer,60.0,57.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-868107298,SushiGo,3,GAME_OVER,60,0,2,389,Basic MCTS,35.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1118813158,SushiGo,3,GAME_OVER,61,0,2,390,RandomPlayer,46.0,62.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2070609251,SushiGo,3,GAME_OVER,66,0,2,391,Basic MCTS,39.0,59.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+759777290,SushiGo,3,GAME_OVER,60,0,2,392,SushigoAgentBKP,34.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-400701623,SushiGo,3,GAME_OVER,60,0,2,393,Basic MCTS,37.0,62.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1256096798,SushiGo,3,GAME_OVER,60,0,2,394,Basic MCTS,42.0,78.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1213484988,SushiGo,3,GAME_OVER,60,0,2,395,Basic MCTS,35.0,60.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-245511674,SushiGo,3,GAME_OVER,61,0,2,396,RandomPlayer,49.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1781923714,SushiGo,3,GAME_OVER,62,0,2,397,Basic MCTS,34.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1855411813,SushiGo,3,GAME_OVER,62,0,2,398,Basic MCTS,40.0,55.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+774228339,SushiGo,3,GAME_OVER,61,0,2,399,SushigoAgentBKP,39.0,45.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-948284606,SushiGo,3,GAME_OVER,62,0,2,400,SushigoAgentBKP,63.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1154935912,SushiGo,3,GAME_OVER,60,0,2,401,SushigoAgentBKP,60.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1316702046,SushiGo,3,GAME_OVER,60,0,2,402,RandomPlayer,52.0,41.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1874899579,SushiGo,3,GAME_OVER,61,0,2,403,Basic MCTS,34.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+365450996,SushiGo,3,GAME_OVER,61,0,2,404,SushigoAgentBKP,59.0,42.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-558786058,SushiGo,3,GAME_OVER,62,0,2,405,Basic MCTS,46.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+455116169,SushiGo,3,GAME_OVER,62,0,2,406,Basic MCTS,39.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-135126267,SushiGo,3,GAME_OVER,60,0,2,407,Basic MCTS,39.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1104994455,SushiGo,3,GAME_OVER,63,0,2,408,RandomPlayer,67.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1572179204,SushiGo,3,GAME_OVER,60,0,2,409,SushigoAgentBKP,47.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+391430978,SushiGo,3,GAME_OVER,61,0,2,410,Basic MCTS,48.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-634538452,SushiGo,3,GAME_OVER,62,0,2,411,SushigoAgentBKP,60.0,50.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-705544372,SushiGo,3,GAME_OVER,61,0,2,412,SushigoAgentBKP,64.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-361852143,SushiGo,3,GAME_OVER,60,0,2,413,SushigoAgentBKP,49.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1325350835,SushiGo,3,GAME_OVER,60,0,2,414,Basic MCTS,31.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1951513964,SushiGo,3,GAME_OVER,60,0,2,415,Basic MCTS,42.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-10267864,SushiGo,3,GAME_OVER,60,0,2,416,SushigoAgentBKP,69.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1051212857,SushiGo,3,GAME_OVER,63,0,2,417,RandomPlayer,46.0,35.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-843539809,SushiGo,3,GAME_OVER,64,0,2,418,RandomPlayer,59.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+492116933,SushiGo,3,GAME_OVER,61,0,2,419,RandomPlayer,37.0,49.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1673516843,SushiGo,3,GAME_OVER,63,0,2,420,Basic MCTS,44.0,57.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1644783328,SushiGo,3,GAME_OVER,60,0,2,421,Basic MCTS,37.0,64.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+785618193,SushiGo,3,GAME_OVER,60,0,2,422,RandomPlayer,46.0,37.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+164107350,SushiGo,3,GAME_OVER,60,0,2,423,Basic MCTS,47.0,69.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+119805228,SushiGo,3,GAME_OVER,61,0,2,424,RandomPlayer,62.0,36.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1180524865,SushiGo,3,GAME_OVER,63,0,2,425,RandomPlayer,67.0,47.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-29368582,SushiGo,3,GAME_OVER,60,0,2,426,SushigoAgentBKP,77.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-896687306,SushiGo,3,GAME_OVER,60,0,2,427,SushigoAgentBKP,65.0,49.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-22515986,SushiGo,3,GAME_OVER,61,0,2,428,SushigoAgentBKP,40.0,42.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1723718501,SushiGo,3,GAME_OVER,60,0,2,429,Basic MCTS,41.0,69.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1272492570,SushiGo,3,GAME_OVER,60,0,2,430,RandomPlayer,71.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1334906756,SushiGo,3,GAME_OVER,61,0,2,431,RandomPlayer,49.0,59.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1151432539,SushiGo,3,GAME_OVER,63,0,2,432,Basic MCTS,46.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1659442669,SushiGo,3,GAME_OVER,60,0,2,433,SushigoAgentBKP,87.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1952836281,SushiGo,3,GAME_OVER,60,0,2,434,RandomPlayer,44.0,40.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-562427204,SushiGo,3,GAME_OVER,65,0,2,435,Basic MCTS,40.0,73.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1567090758,SushiGo,3,GAME_OVER,61,0,2,436,Basic MCTS,38.0,54.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-2117159789,SushiGo,3,GAME_OVER,63,0,2,437,RandomPlayer,68.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1271235057,SushiGo,3,GAME_OVER,60,0,2,438,SushigoAgentBKP,47.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1162677940,SushiGo,3,GAME_OVER,62,0,2,439,Basic MCTS,37.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+386226635,SushiGo,3,GAME_OVER,61,0,2,440,RandomPlayer,48.0,46.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+407432094,SushiGo,3,GAME_OVER,60,0,2,441,Basic MCTS,44.0,88.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-2032569626,SushiGo,3,GAME_OVER,63,0,2,442,Basic MCTS,52.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2059796378,SushiGo,3,GAME_OVER,61,0,2,443,SushigoAgentBKP,56.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1298827275,SushiGo,3,GAME_OVER,60,0,2,444,Basic MCTS,51.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-2024790700,SushiGo,3,GAME_OVER,67,0,2,445,Basic MCTS,45.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+828326013,SushiGo,3,GAME_OVER,60,0,2,446,Basic MCTS,35.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+149918999,SushiGo,3,GAME_OVER,64,0,2,447,RandomPlayer,71.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+249780821,SushiGo,3,GAME_OVER,60,0,2,448,SushigoAgentBKP,64.0,49.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1423670158,SushiGo,3,GAME_OVER,60,0,2,449,Basic MCTS,41.0,89.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1491580847,SushiGo,3,GAME_OVER,61,0,2,450,RandomPlayer,65.0,36.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-123680615,SushiGo,3,GAME_OVER,61,0,2,451,RandomPlayer,32.0,42.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+765308874,SushiGo,3,GAME_OVER,60,0,2,452,Basic MCTS,34.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+561061571,SushiGo,3,GAME_OVER,61,0,2,453,RandomPlayer,50.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1626940844,SushiGo,3,GAME_OVER,60,0,2,454,SushigoAgentBKP,54.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1747910116,SushiGo,3,GAME_OVER,60,0,2,455,Basic MCTS,35.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1946234368,SushiGo,3,GAME_OVER,62,0,2,456,RandomPlayer,81.0,45.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1383278889,SushiGo,3,GAME_OVER,60,0,2,457,SushigoAgentBKP,49.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1592607975,SushiGo,3,GAME_OVER,61,0,2,458,SushigoAgentBKP,71.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1490406262,SushiGo,3,GAME_OVER,60,0,2,459,RandomPlayer,78.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1737994838,SushiGo,3,GAME_OVER,60,0,2,460,RandomPlayer,43.0,57.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+142777586,SushiGo,3,GAME_OVER,62,0,2,461,RandomPlayer,63.0,50.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+607587945,SushiGo,3,GAME_OVER,60,0,2,462,SushigoAgentBKP,41.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-767740732,SushiGo,3,GAME_OVER,61,0,2,463,SushigoAgentBKP,55.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1218181362,SushiGo,3,GAME_OVER,64,0,2,464,RandomPlayer,57.0,37.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1470647111,SushiGo,3,GAME_OVER,60,0,2,465,SushigoAgentBKP,80.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-890355068,SushiGo,3,GAME_OVER,61,0,2,466,RandomPlayer,43.0,46.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+2133321927,SushiGo,3,GAME_OVER,61,0,2,467,Basic MCTS,46.0,77.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1425714490,SushiGo,3,GAME_OVER,65,0,2,468,RandomPlayer,65.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+222990694,SushiGo,3,GAME_OVER,60,0,2,469,SushigoAgentBKP,48.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1161320946,SushiGo,3,GAME_OVER,62,0,2,470,SushigoAgentBKP,49.0,73.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1979021148,SushiGo,3,GAME_OVER,62,0,2,471,Basic MCTS,42.0,80.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1530360516,SushiGo,3,GAME_OVER,61,0,2,472,Basic MCTS,45.0,64.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+73900785,SushiGo,3,GAME_OVER,61,0,2,473,Basic MCTS,33.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1220039967,SushiGo,3,GAME_OVER,62,0,2,474,SushigoAgentBKP,68.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1860236207,SushiGo,3,GAME_OVER,60,0,2,475,SushigoAgentBKP,53.0,54.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-41465962,SushiGo,3,GAME_OVER,60,0,2,476,SushigoAgentBKP,42.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1373216150,SushiGo,3,GAME_OVER,61,0,2,477,Basic MCTS,40.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+170220813,SushiGo,3,GAME_OVER,60,0,2,478,Basic MCTS,49.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1345631846,SushiGo,3,GAME_OVER,61,0,2,479,Basic MCTS,44.0,58.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1917569558,SushiGo,3,GAME_OVER,60,0,2,480,SushigoAgentBKP,64.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-705897928,SushiGo,3,GAME_OVER,61,0,2,481,RandomPlayer,60.0,47.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+993005175,SushiGo,3,GAME_OVER,63,0,2,482,RandomPlayer,51.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-945966091,SushiGo,3,GAME_OVER,64,0,2,483,Basic MCTS,45.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1663787093,SushiGo,3,GAME_OVER,60,0,2,484,Basic MCTS,35.0,52.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-798122641,SushiGo,3,GAME_OVER,62,0,2,485,RandomPlayer,42.0,45.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1546726599,SushiGo,3,GAME_OVER,61,0,2,486,Basic MCTS,35.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1210934320,SushiGo,3,GAME_OVER,61,0,2,487,RandomPlayer,63.0,48.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-497665713,SushiGo,3,GAME_OVER,60,0,2,488,RandomPlayer,45.0,47.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+167500594,SushiGo,3,GAME_OVER,61,0,2,489,Basic MCTS,35.0,74.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2125196782,SushiGo,3,GAME_OVER,62,0,2,490,SushigoAgentBKP,99.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+920260385,SushiGo,3,GAME_OVER,60,0,2,491,SushigoAgentBKP,63.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1605480834,SushiGo,3,GAME_OVER,66,0,2,492,RandomPlayer,105.0,31.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-148176429,SushiGo,3,GAME_OVER,60,0,2,493,RandomPlayer,52.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1359602726,SushiGo,3,GAME_OVER,61,0,2,494,RandomPlayer,75.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1006015259,SushiGo,3,GAME_OVER,61,0,2,495,SushigoAgentBKP,84.0,34.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1580435011,SushiGo,3,GAME_OVER,62,0,2,496,RandomPlayer,49.0,49.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+668925994,SushiGo,3,GAME_OVER,60,0,2,497,Basic MCTS,38.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1904283382,SushiGo,3,GAME_OVER,61,0,2,498,RandomPlayer,71.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1981282318,SushiGo,3,GAME_OVER,60,0,2,499,SushigoAgentBKP,64.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+651654240,SushiGo,3,GAME_OVER,60,0,2,500,SushigoAgentBKP,50.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1857485589,SushiGo,3,GAME_OVER,61,0,2,501,Basic MCTS,43.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1948275385,SushiGo,3,GAME_OVER,62,0,2,502,Basic MCTS,39.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1802527773,SushiGo,3,GAME_OVER,63,0,2,503,Basic MCTS,40.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+344347419,SushiGo,3,GAME_OVER,61,0,2,504,SushigoAgentBKP,66.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+879322655,SushiGo,3,GAME_OVER,61,0,2,505,SushigoAgentBKP,49.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-837504010,SushiGo,3,GAME_OVER,64,0,2,506,Basic MCTS,32.0,78.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1492368019,SushiGo,3,GAME_OVER,61,0,2,507,SushigoAgentBKP,61.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-500868234,SushiGo,3,GAME_OVER,60,0,2,508,SushigoAgentBKP,72.0,47.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+419197822,SushiGo,3,GAME_OVER,60,0,2,509,RandomPlayer,51.0,43.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1216608386,SushiGo,3,GAME_OVER,61,0,2,510,Basic MCTS,31.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1730689728,SushiGo,3,GAME_OVER,61,0,2,511,Basic MCTS,34.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1622941617,SushiGo,3,GAME_OVER,61,0,2,512,Basic MCTS,39.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1140920131,SushiGo,3,GAME_OVER,61,0,2,513,RandomPlayer,77.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1606344194,SushiGo,3,GAME_OVER,61,0,2,514,RandomPlayer,47.0,57.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1893738431,SushiGo,3,GAME_OVER,60,0,2,515,RandomPlayer,49.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1920731375,SushiGo,3,GAME_OVER,61,0,2,516,Basic MCTS,36.0,68.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-190457396,SushiGo,3,GAME_OVER,60,0,2,517,Basic MCTS,41.0,90.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-2100090043,SushiGo,3,GAME_OVER,62,0,2,518,RandomPlayer,58.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+128155681,SushiGo,3,GAME_OVER,60,0,2,519,Basic MCTS,35.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1671160290,SushiGo,3,GAME_OVER,62,0,2,520,SushigoAgentBKP,62.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+366663036,SushiGo,3,GAME_OVER,65,0,2,521,RandomPlayer,66.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-375015914,SushiGo,3,GAME_OVER,61,0,2,522,SushigoAgentBKP,45.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1971383710,SushiGo,3,GAME_OVER,61,0,2,523,SushigoAgentBKP,61.0,30.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1756878403,SushiGo,3,GAME_OVER,60,0,2,524,SushigoAgentBKP,70.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-652887122,SushiGo,3,GAME_OVER,60,0,2,525,RandomPlayer,48.0,28.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1290039030,SushiGo,3,GAME_OVER,60,0,2,526,Basic MCTS,37.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+998545521,SushiGo,3,GAME_OVER,64,0,2,527,SushigoAgentBKP,56.0,38.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-917159410,SushiGo,3,GAME_OVER,60,0,2,528,Basic MCTS,46.0,50.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-556651290,SushiGo,3,GAME_OVER,64,0,2,529,Basic MCTS,37.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1790031020,SushiGo,3,GAME_OVER,60,0,2,530,SushigoAgentBKP,76.0,29.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+473013498,SushiGo,3,GAME_OVER,60,0,2,531,RandomPlayer,55.0,37.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1800819504,SushiGo,3,GAME_OVER,63,0,2,532,Basic MCTS,52.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-303550391,SushiGo,3,GAME_OVER,61,0,2,533,Basic MCTS,32.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-109312531,SushiGo,3,GAME_OVER,61,0,2,534,SushigoAgentBKP,57.0,50.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-89916808,SushiGo,3,GAME_OVER,60,0,2,535,SushigoAgentBKP,76.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+109766554,SushiGo,3,GAME_OVER,61,0,2,536,RandomPlayer,64.0,47.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+226932302,SushiGo,3,GAME_OVER,62,0,2,537,SushigoAgentBKP,48.0,67.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1259897486,SushiGo,3,GAME_OVER,60,0,2,538,Basic MCTS,38.0,80.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1978957578,SushiGo,3,GAME_OVER,61,0,2,539,RandomPlayer,61.0,54.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-942299937,SushiGo,3,GAME_OVER,60,0,2,540,SushigoAgentBKP,55.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1481052854,SushiGo,3,GAME_OVER,60,0,2,541,RandomPlayer,43.0,45.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1807210855,SushiGo,3,GAME_OVER,62,0,2,542,Basic MCTS,34.0,80.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1619560051,SushiGo,3,GAME_OVER,61,0,2,543,SushigoAgentBKP,73.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+715773297,SushiGo,3,GAME_OVER,61,0,2,544,RandomPlayer,45.0,37.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1666604615,SushiGo,3,GAME_OVER,62,0,2,545,RandomPlayer,73.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-533685939,SushiGo,3,GAME_OVER,61,0,2,546,SushigoAgentBKP,44.0,45.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+802194406,SushiGo,3,GAME_OVER,60,0,2,547,Basic MCTS,46.0,82.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-384874937,SushiGo,3,GAME_OVER,61,0,2,548,RandomPlayer,42.0,69.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-677704575,SushiGo,3,GAME_OVER,65,0,2,549,Basic MCTS,45.0,86.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1948257789,SushiGo,3,GAME_OVER,61,0,2,550,SushigoAgentBKP,78.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+935861919,SushiGo,3,GAME_OVER,61,0,2,551,RandomPlayer,67.0,54.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+505403007,SushiGo,3,GAME_OVER,60,0,2,552,SushigoAgentBKP,37.0,51.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+2074403035,SushiGo,3,GAME_OVER,60,0,2,553,SushigoAgentBKP,61.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1987371672,SushiGo,3,GAME_OVER,60,0,2,554,RandomPlayer,68.0,63.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1398345291,SushiGo,3,GAME_OVER,65,0,2,555,Basic MCTS,39.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1601140315,SushiGo,3,GAME_OVER,61,0,2,556,Basic MCTS,36.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-228364245,SushiGo,3,GAME_OVER,61,0,2,557,RandomPlayer,78.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1147305915,SushiGo,3,GAME_OVER,62,0,2,558,SushigoAgentBKP,34.0,58.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1204012719,SushiGo,3,GAME_OVER,60,0,2,559,SushigoAgentBKP,65.0,34.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1555891659,SushiGo,3,GAME_OVER,67,0,2,560,RandomPlayer,66.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1324996191,SushiGo,3,GAME_OVER,60,0,2,561,SushigoAgentBKP,68.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+399100522,SushiGo,3,GAME_OVER,60,0,2,562,Basic MCTS,39.0,59.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1445892082,SushiGo,3,GAME_OVER,64,0,2,563,RandomPlayer,70.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1662840926,SushiGo,3,GAME_OVER,61,0,2,564,SushigoAgentBKP,44.0,50.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-482417750,SushiGo,3,GAME_OVER,60,0,2,565,Basic MCTS,44.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1176865514,SushiGo,3,GAME_OVER,60,0,2,566,Basic MCTS,49.0,55.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1228149075,SushiGo,3,GAME_OVER,61,0,2,567,RandomPlayer,64.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1191436024,SushiGo,3,GAME_OVER,61,0,2,568,SushigoAgentBKP,42.0,54.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+492292264,SushiGo,3,GAME_OVER,60,0,2,569,Basic MCTS,34.0,86.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1214168165,SushiGo,3,GAME_OVER,61,0,2,570,RandomPlayer,99.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-266666514,SushiGo,3,GAME_OVER,62,0,2,571,SushigoAgentBKP,49.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-277325544,SushiGo,3,GAME_OVER,60,0,2,572,Basic MCTS,38.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1385243932,SushiGo,3,GAME_OVER,60,0,2,573,RandomPlayer,43.0,73.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1825286722,SushiGo,3,GAME_OVER,62,0,2,574,RandomPlayer,81.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+674537269,SushiGo,3,GAME_OVER,60,0,2,575,RandomPlayer,40.0,46.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+243702002,SushiGo,3,GAME_OVER,61,0,2,576,Basic MCTS,37.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+810632131,SushiGo,3,GAME_OVER,62,0,2,577,Basic MCTS,41.0,57.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+22822763,SushiGo,3,GAME_OVER,61,0,2,578,Basic MCTS,31.0,84.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1083680437,SushiGo,3,GAME_OVER,60,0,2,579,SushigoAgentBKP,74.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2134107199,SushiGo,3,GAME_OVER,62,0,2,580,RandomPlayer,39.0,48.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1621106121,SushiGo,3,GAME_OVER,61,0,2,581,RandomPlayer,51.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1763206408,SushiGo,3,GAME_OVER,63,0,2,582,Basic MCTS,35.0,52.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+268607634,SushiGo,3,GAME_OVER,60,0,2,583,Basic MCTS,38.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+265734640,SushiGo,3,GAME_OVER,60,0,2,584,Basic MCTS,43.0,82.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1971965048,SushiGo,3,GAME_OVER,61,0,2,585,RandomPlayer,61.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1045084180,SushiGo,3,GAME_OVER,60,0,2,586,RandomPlayer,43.0,37.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+671429762,SushiGo,3,GAME_OVER,60,0,2,587,Basic MCTS,58.0,70.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-645732223,SushiGo,3,GAME_OVER,61,0,2,588,SushigoAgentBKP,44.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+285260020,SushiGo,3,GAME_OVER,60,0,2,589,SushigoAgentBKP,65.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1848923058,SushiGo,3,GAME_OVER,60,0,2,590,SushigoAgentBKP,58.0,61.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-742411332,SushiGo,3,GAME_OVER,62,0,2,591,Basic MCTS,34.0,68.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1300630910,SushiGo,3,GAME_OVER,60,0,2,592,Basic MCTS,37.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1726578044,SushiGo,3,GAME_OVER,61,0,2,593,RandomPlayer,50.0,47.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1861749587,SushiGo,3,GAME_OVER,60,0,2,594,Basic MCTS,40.0,62.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1336615586,SushiGo,3,GAME_OVER,61,0,2,595,Basic MCTS,47.0,99.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-620103854,SushiGo,3,GAME_OVER,60,0,2,596,SushigoAgentBKP,46.0,47.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1525824479,SushiGo,3,GAME_OVER,63,0,2,597,Basic MCTS,40.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-934148677,SushiGo,3,GAME_OVER,61,0,2,598,Basic MCTS,40.0,60.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+541201304,SushiGo,3,GAME_OVER,61,0,2,599,RandomPlayer,62.0,37.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1828654035,SushiGo,3,GAME_OVER,60,0,2,600,SushigoAgentBKP,37.0,64.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1740539475,SushiGo,3,GAME_OVER,61,0,2,601,SushigoAgentBKP,65.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+365706363,SushiGo,3,GAME_OVER,60,0,2,602,SushigoAgentBKP,55.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+256111487,SushiGo,3,GAME_OVER,61,0,2,603,Basic MCTS,36.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1311116951,SushiGo,3,GAME_OVER,60,0,2,604,SushigoAgentBKP,70.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-623239247,SushiGo,3,GAME_OVER,65,0,2,605,RandomPlayer,66.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-816186981,SushiGo,3,GAME_OVER,60,0,2,606,SushigoAgentBKP,46.0,47.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1833702945,SushiGo,3,GAME_OVER,60,0,2,607,SushigoAgentBKP,97.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+591933436,SushiGo,3,GAME_OVER,60,0,2,608,SushigoAgentBKP,44.0,60.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1504631688,SushiGo,3,GAME_OVER,60,0,2,609,Basic MCTS,41.0,99.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-749993119,SushiGo,3,GAME_OVER,63,0,2,610,Basic MCTS,45.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+115953369,SushiGo,3,GAME_OVER,62,0,2,611,Basic MCTS,38.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+17378113,SushiGo,3,GAME_OVER,61,0,2,612,SushigoAgentBKP,58.0,47.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1482849174,SushiGo,3,GAME_OVER,60,0,2,613,SushigoAgentBKP,60.0,45.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1425736273,SushiGo,3,GAME_OVER,60,0,2,614,SushigoAgentBKP,74.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1438972643,SushiGo,3,GAME_OVER,60,0,2,615,RandomPlayer,52.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1574014213,SushiGo,3,GAME_OVER,61,0,2,616,Basic MCTS,38.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1775770491,SushiGo,3,GAME_OVER,60,0,2,617,SushigoAgentBKP,44.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1145568681,SushiGo,3,GAME_OVER,61,0,2,618,Basic MCTS,42.0,75.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1391277618,SushiGo,3,GAME_OVER,65,0,2,619,RandomPlayer,67.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1536991641,SushiGo,3,GAME_OVER,63,0,2,620,RandomPlayer,82.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1169171376,SushiGo,3,GAME_OVER,62,0,2,621,SushigoAgentBKP,47.0,36.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+74068890,SushiGo,3,GAME_OVER,60,0,2,622,Basic MCTS,41.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1748170368,SushiGo,3,GAME_OVER,64,0,2,623,RandomPlayer,67.0,50.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1435300539,SushiGo,3,GAME_OVER,61,0,2,624,SushigoAgentBKP,40.0,71.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1465907126,SushiGo,3,GAME_OVER,60,0,2,625,Basic MCTS,39.0,56.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1411723496,SushiGo,3,GAME_OVER,60,0,2,626,RandomPlayer,51.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-550443609,SushiGo,3,GAME_OVER,61,0,2,627,Basic MCTS,50.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+179518965,SushiGo,3,GAME_OVER,61,0,2,628,SushigoAgentBKP,59.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+626643858,SushiGo,3,GAME_OVER,63,0,2,629,RandomPlayer,69.0,55.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-771587739,SushiGo,3,GAME_OVER,61,0,2,630,SushigoAgentBKP,66.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2126970927,SushiGo,3,GAME_OVER,60,0,2,631,RandomPlayer,40.0,52.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+125983186,SushiGo,3,GAME_OVER,60,0,2,632,Basic MCTS,38.0,78.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-237990792,SushiGo,3,GAME_OVER,60,0,2,633,RandomPlayer,33.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-173129193,SushiGo,3,GAME_OVER,60,0,2,634,Basic MCTS,33.0,75.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-797940441,SushiGo,3,GAME_OVER,60,0,2,635,SushigoAgentBKP,61.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-551212262,SushiGo,3,GAME_OVER,61,0,2,636,RandomPlayer,49.0,27.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-685102907,SushiGo,3,GAME_OVER,61,0,2,637,RandomPlayer,53.0,49.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+995047931,SushiGo,3,GAME_OVER,61,0,2,638,SushigoAgentBKP,89.0,31.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-491728328,SushiGo,3,GAME_OVER,62,0,2,639,RandomPlayer,48.0,42.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+409134167,SushiGo,3,GAME_OVER,61,0,2,640,RandomPlayer,71.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1141931214,SushiGo,3,GAME_OVER,60,0,2,641,SushigoAgentBKP,87.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+580122679,SushiGo,3,GAME_OVER,63,0,2,642,RandomPlayer,44.0,63.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1512526090,SushiGo,3,GAME_OVER,62,0,2,643,Basic MCTS,47.0,98.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-485934698,SushiGo,3,GAME_OVER,60,0,2,644,SushigoAgentBKP,62.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1405719226,SushiGo,3,GAME_OVER,60,0,2,645,RandomPlayer,43.0,40.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1316836782,SushiGo,3,GAME_OVER,63,0,2,646,RandomPlayer,88.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+962967161,SushiGo,3,GAME_OVER,61,0,2,647,SushigoAgentBKP,42.0,46.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1897952150,SushiGo,3,GAME_OVER,65,0,2,648,Basic MCTS,39.0,97.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+73860364,SushiGo,3,GAME_OVER,63,0,2,649,Basic MCTS,47.0,89.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+542354087,SushiGo,3,GAME_OVER,61,0,2,650,RandomPlayer,37.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-540269012,SushiGo,3,GAME_OVER,60,0,2,651,Basic MCTS,38.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+466768949,SushiGo,3,GAME_OVER,61,0,2,652,Basic MCTS,53.0,79.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-367775226,SushiGo,3,GAME_OVER,60,0,2,653,SushigoAgentBKP,39.0,43.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1963408048,SushiGo,3,GAME_OVER,60,0,2,654,Basic MCTS,35.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1872987620,SushiGo,3,GAME_OVER,64,0,2,655,Basic MCTS,42.0,63.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1882605226,SushiGo,3,GAME_OVER,60,0,2,656,SushigoAgentBKP,73.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1901429407,SushiGo,3,GAME_OVER,64,0,2,657,RandomPlayer,66.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2016347456,SushiGo,3,GAME_OVER,60,0,2,658,RandomPlayer,42.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+625958196,SushiGo,3,GAME_OVER,63,0,2,659,Basic MCTS,36.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+838272141,SushiGo,3,GAME_OVER,60,0,2,660,SushigoAgentBKP,59.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-734545559,SushiGo,3,GAME_OVER,60,0,2,661,RandomPlayer,42.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1922504091,SushiGo,3,GAME_OVER,62,0,2,662,Basic MCTS,50.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1626171903,SushiGo,3,GAME_OVER,61,0,2,663,SushigoAgentBKP,63.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1383943869,SushiGo,3,GAME_OVER,60,0,2,664,SushigoAgentBKP,37.0,39.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+163654718,SushiGo,3,GAME_OVER,60,0,2,665,Basic MCTS,38.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1055576698,SushiGo,3,GAME_OVER,60,0,2,666,SushigoAgentBKP,55.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-690475955,SushiGo,3,GAME_OVER,60,0,2,667,Basic MCTS,39.0,89.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1084946572,SushiGo,3,GAME_OVER,63,0,2,668,Basic MCTS,29.0,53.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1774531016,SushiGo,3,GAME_OVER,62,0,2,669,SushigoAgentBKP,63.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+531349994,SushiGo,3,GAME_OVER,61,0,2,670,SushigoAgentBKP,92.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-827991198,SushiGo,3,GAME_OVER,62,0,2,671,RandomPlayer,40.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1956936756,SushiGo,3,GAME_OVER,61,0,2,672,Basic MCTS,47.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-572487449,SushiGo,3,GAME_OVER,60,0,2,673,SushigoAgentBKP,59.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-2051648268,SushiGo,3,GAME_OVER,61,0,2,674,RandomPlayer,80.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1517885452,SushiGo,3,GAME_OVER,60,0,2,675,SushigoAgentBKP,56.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+969077124,SushiGo,3,GAME_OVER,60,0,2,676,SushigoAgentBKP,74.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-983646225,SushiGo,3,GAME_OVER,63,0,2,677,RandomPlayer,62.0,32.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-4046211,SushiGo,3,GAME_OVER,60,0,2,678,SushigoAgentBKP,68.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1476792259,SushiGo,3,GAME_OVER,61,0,2,679,SushigoAgentBKP,39.0,34.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1782590204,SushiGo,3,GAME_OVER,60,0,2,680,Basic MCTS,36.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1291875411,SushiGo,3,GAME_OVER,62,0,2,681,RandomPlayer,68.0,36.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1997054224,SushiGo,3,GAME_OVER,60,0,2,682,SushigoAgentBKP,46.0,46.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+849545176,SushiGo,3,GAME_OVER,60,0,2,683,Basic MCTS,36.0,94.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-343809122,SushiGo,3,GAME_OVER,63,0,2,684,RandomPlayer,42.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1941526943,SushiGo,3,GAME_OVER,61,0,2,685,RandomPlayer,40.0,59.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1225116185,SushiGo,3,GAME_OVER,60,0,2,686,RandomPlayer,38.0,44.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1299708623,SushiGo,3,GAME_OVER,62,0,2,687,Basic MCTS,35.0,90.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1231666710,SushiGo,3,GAME_OVER,60,0,2,688,Basic MCTS,39.0,78.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2110995371,SushiGo,3,GAME_OVER,63,0,2,689,Basic MCTS,45.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+771266388,SushiGo,3,GAME_OVER,60,0,2,690,SushigoAgentBKP,65.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+502746221,SushiGo,3,GAME_OVER,61,0,2,691,SushigoAgentBKP,52.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+797003619,SushiGo,3,GAME_OVER,62,0,2,692,Basic MCTS,44.0,86.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+620916749,SushiGo,3,GAME_OVER,60,0,2,693,SushigoAgentBKP,67.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-238529562,SushiGo,3,GAME_OVER,60,0,2,694,SushigoAgentBKP,43.0,38.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1013676016,SushiGo,3,GAME_OVER,62,0,2,695,Basic MCTS,48.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1196741559,SushiGo,3,GAME_OVER,61,0,2,696,SushigoAgentBKP,47.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-875861297,SushiGo,3,GAME_OVER,60,0,2,697,Basic MCTS,47.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1847922602,SushiGo,3,GAME_OVER,61,0,2,698,RandomPlayer,69.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+333706842,SushiGo,3,GAME_OVER,61,0,2,699,SushigoAgentBKP,43.0,44.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+866569149,SushiGo,3,GAME_OVER,60,0,2,700,Basic MCTS,38.0,83.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-731878815,SushiGo,3,GAME_OVER,64,0,2,701,Basic MCTS,48.0,59.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-565851153,SushiGo,3,GAME_OVER,60,0,2,702,SushigoAgentBKP,60.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+928533896,SushiGo,3,GAME_OVER,60,0,2,703,RandomPlayer,40.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1906745311,SushiGo,3,GAME_OVER,60,0,2,704,Basic MCTS,38.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1575391536,SushiGo,3,GAME_OVER,63,0,2,705,RandomPlayer,63.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1124431008,SushiGo,3,GAME_OVER,63,0,2,706,RandomPlayer,40.0,63.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-284918653,SushiGo,3,GAME_OVER,61,0,2,707,RandomPlayer,64.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-678692524,SushiGo,3,GAME_OVER,60,0,2,708,SushigoAgentBKP,65.0,51.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-535302088,SushiGo,3,GAME_OVER,62,0,2,709,RandomPlayer,38.0,77.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1467205542,SushiGo,3,GAME_OVER,63,0,2,710,Basic MCTS,46.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1842390763,SushiGo,3,GAME_OVER,62,0,2,711,SushigoAgentBKP,62.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-2087448688,SushiGo,3,GAME_OVER,60,0,2,712,Basic MCTS,40.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+986384503,SushiGo,3,GAME_OVER,60,0,2,713,Basic MCTS,36.0,81.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-712847735,SushiGo,3,GAME_OVER,60,0,2,714,SushigoAgentBKP,69.0,48.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-75451745,SushiGo,3,GAME_OVER,62,0,2,715,RandomPlayer,42.0,50.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-630950118,SushiGo,3,GAME_OVER,61,0,2,716,Basic MCTS,36.0,50.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1809841117,SushiGo,3,GAME_OVER,60,0,2,717,SushigoAgentBKP,42.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1981821347,SushiGo,3,GAME_OVER,60,0,2,718,SushigoAgentBKP,53.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1038725591,SushiGo,3,GAME_OVER,63,0,2,719,RandomPlayer,60.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-630805306,SushiGo,3,GAME_OVER,60,0,2,720,SushigoAgentBKP,80.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-696873283,SushiGo,3,GAME_OVER,60,0,2,721,RandomPlayer,49.0,63.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1569771995,SushiGo,3,GAME_OVER,63,0,2,722,Basic MCTS,36.0,56.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1826885563,SushiGo,3,GAME_OVER,60,0,2,723,SushigoAgentBKP,56.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1862133440,SushiGo,3,GAME_OVER,62,0,2,724,Basic MCTS,35.0,59.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1479470630,SushiGo,3,GAME_OVER,61,0,2,725,RandomPlayer,67.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-371314227,SushiGo,3,GAME_OVER,60,0,2,726,SushigoAgentBKP,27.0,36.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1310923542,SushiGo,3,GAME_OVER,60,0,2,727,SushigoAgentBKP,61.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1339822712,SushiGo,3,GAME_OVER,62,0,2,728,SushigoAgentBKP,66.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1679556945,SushiGo,3,GAME_OVER,60,0,2,729,Basic MCTS,39.0,77.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-509493329,SushiGo,3,GAME_OVER,61,0,2,730,Basic MCTS,47.0,77.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-198753099,SushiGo,3,GAME_OVER,61,0,2,731,SushigoAgentBKP,56.0,51.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+2030829886,SushiGo,3,GAME_OVER,60,0,2,732,Basic MCTS,48.0,55.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+160036409,SushiGo,3,GAME_OVER,62,0,2,733,Basic MCTS,53.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+9139859,SushiGo,3,GAME_OVER,60,0,2,734,Basic MCTS,42.0,81.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1518774127,SushiGo,3,GAME_OVER,60,0,2,735,RandomPlayer,58.0,31.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-541569249,SushiGo,3,GAME_OVER,61,0,2,736,SushigoAgentBKP,62.0,55.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+472247061,SushiGo,3,GAME_OVER,60,0,2,737,SushigoAgentBKP,59.0,45.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-813312443,SushiGo,3,GAME_OVER,63,0,2,738,Basic MCTS,27.0,77.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1273373377,SushiGo,3,GAME_OVER,60,0,2,739,SushigoAgentBKP,46.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+724745039,SushiGo,3,GAME_OVER,63,0,2,740,SushigoAgentBKP,59.0,38.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+136441547,SushiGo,3,GAME_OVER,61,0,2,741,Basic MCTS,36.0,50.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1398951086,SushiGo,3,GAME_OVER,61,0,2,742,RandomPlayer,69.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1473890837,SushiGo,3,GAME_OVER,60,0,2,743,SushigoAgentBKP,47.0,52.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+165806808,SushiGo,3,GAME_OVER,60,0,2,744,Basic MCTS,43.0,96.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1152652449,SushiGo,3,GAME_OVER,63,0,2,745,Basic MCTS,47.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+983060861,SushiGo,3,GAME_OVER,60,0,2,746,SushigoAgentBKP,63.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1778658840,SushiGo,3,GAME_OVER,64,0,2,747,RandomPlayer,53.0,48.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+2038462962,SushiGo,3,GAME_OVER,62,0,2,748,RandomPlayer,62.0,32.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+633769786,SushiGo,3,GAME_OVER,60,0,2,749,SushigoAgentBKP,50.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-832038909,SushiGo,3,GAME_OVER,63,0,2,750,RandomPlayer,74.0,31.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1711572517,SushiGo,3,GAME_OVER,62,0,2,751,RandomPlayer,55.0,53.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+248113796,SushiGo,3,GAME_OVER,61,0,2,752,RandomPlayer,81.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+815400639,SushiGo,3,GAME_OVER,60,0,2,753,SushigoAgentBKP,52.0,60.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1700526942,SushiGo,3,GAME_OVER,60,0,2,754,Basic MCTS,34.0,84.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-755017852,SushiGo,3,GAME_OVER,60,0,2,755,RandomPlayer,44.0,55.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-666216725,SushiGo,3,GAME_OVER,62,0,2,756,Basic MCTS,27.0,65.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-176513445,SushiGo,3,GAME_OVER,60,0,2,757,Basic MCTS,37.0,78.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1462896857,SushiGo,3,GAME_OVER,60,0,2,758,Basic MCTS,41.0,59.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-216203306,SushiGo,3,GAME_OVER,62,0,2,759,RandomPlayer,74.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1106270983,SushiGo,3,GAME_OVER,60,0,2,760,SushigoAgentBKP,45.0,47.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1917100819,SushiGo,3,GAME_OVER,61,0,2,761,Basic MCTS,41.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+518605970,SushiGo,3,GAME_OVER,60,0,2,762,SushigoAgentBKP,56.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1856344890,SushiGo,3,GAME_OVER,61,0,2,763,Basic MCTS,49.0,71.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+194803007,SushiGo,3,GAME_OVER,60,0,2,764,RandomPlayer,63.0,49.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-265097991,SushiGo,3,GAME_OVER,62,0,2,765,Basic MCTS,52.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-180042659,SushiGo,3,GAME_OVER,60,0,2,766,SushigoAgentBKP,70.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1004028005,SushiGo,3,GAME_OVER,63,0,2,767,RandomPlayer,49.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1385867919,SushiGo,3,GAME_OVER,61,0,2,768,SushigoAgentBKP,67.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1118824414,SushiGo,3,GAME_OVER,60,0,2,769,RandomPlayer,42.0,36.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1724914920,SushiGo,3,GAME_OVER,60,0,2,770,Basic MCTS,37.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+787785008,SushiGo,3,GAME_OVER,60,0,2,771,RandomPlayer,42.0,44.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1605395900,SushiGo,3,GAME_OVER,62,0,2,772,RandomPlayer,63.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2088099762,SushiGo,3,GAME_OVER,61,0,2,773,RandomPlayer,77.0,58.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1250991391,SushiGo,3,GAME_OVER,62,0,2,774,SushigoAgentBKP,76.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+172711847,SushiGo,3,GAME_OVER,60,0,2,775,RandomPlayer,57.0,43.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-406685277,SushiGo,3,GAME_OVER,60,0,2,776,Basic MCTS,45.0,64.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1859756025,SushiGo,3,GAME_OVER,62,0,2,777,RandomPlayer,63.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1135680558,SushiGo,3,GAME_OVER,61,0,2,778,RandomPlayer,54.0,42.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1381178085,SushiGo,3,GAME_OVER,61,0,2,779,Basic MCTS,38.0,48.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2132515694,SushiGo,3,GAME_OVER,60,0,2,780,SushigoAgentBKP,56.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1714637963,SushiGo,3,GAME_OVER,60,0,2,781,SushigoAgentBKP,58.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-317957228,SushiGo,3,GAME_OVER,62,0,2,782,Basic MCTS,36.0,98.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+258968524,SushiGo,3,GAME_OVER,60,0,2,783,SushigoAgentBKP,65.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1973408535,SushiGo,3,GAME_OVER,61,0,2,784,RandomPlayer,48.0,63.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1688836135,SushiGo,3,GAME_OVER,60,0,2,785,Basic MCTS,38.0,69.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2013366500,SushiGo,3,GAME_OVER,60,0,2,786,RandomPlayer,56.0,55.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+672868403,SushiGo,3,GAME_OVER,61,0,2,787,SushigoAgentBKP,49.0,48.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1067970603,SushiGo,3,GAME_OVER,60,0,2,788,Basic MCTS,42.0,92.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2100649814,SushiGo,3,GAME_OVER,60,0,2,789,RandomPlayer,47.0,46.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1867475310,SushiGo,3,GAME_OVER,61,0,2,790,RandomPlayer,88.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1587587995,SushiGo,3,GAME_OVER,60,0,2,791,SushigoAgentBKP,56.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+177800912,SushiGo,3,GAME_OVER,61,0,2,792,RandomPlayer,72.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-831021365,SushiGo,3,GAME_OVER,61,0,2,793,SushigoAgentBKP,65.0,36.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1855339429,SushiGo,3,GAME_OVER,60,0,2,794,Basic MCTS,41.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1767151605,SushiGo,3,GAME_OVER,60,0,2,795,RandomPlayer,64.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+721959177,SushiGo,3,GAME_OVER,60,0,2,796,RandomPlayer,39.0,41.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+876173895,SushiGo,3,GAME_OVER,62,0,2,797,RandomPlayer,42.0,65.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-682255402,SushiGo,3,GAME_OVER,62,0,2,798,Basic MCTS,45.0,50.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1543742227,SushiGo,3,GAME_OVER,61,0,2,799,SushigoAgentBKP,67.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-394571721,SushiGo,3,GAME_OVER,69,0,2,800,RandomPlayer,83.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-22445229,SushiGo,3,GAME_OVER,60,0,2,801,SushigoAgentBKP,61.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1005784980,SushiGo,3,GAME_OVER,60,0,2,802,SushigoAgentBKP,57.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+128709176,SushiGo,3,GAME_OVER,61,0,2,803,SushigoAgentBKP,75.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1020979938,SushiGo,3,GAME_OVER,60,0,2,804,RandomPlayer,40.0,42.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1786076522,SushiGo,3,GAME_OVER,63,0,2,805,Basic MCTS,29.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+171305089,SushiGo,3,GAME_OVER,60,0,2,806,SushigoAgentBKP,59.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1865564975,SushiGo,3,GAME_OVER,64,0,2,807,RandomPlayer,46.0,38.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-474791239,SushiGo,3,GAME_OVER,60,0,2,808,RandomPlayer,62.0,45.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1425302951,SushiGo,3,GAME_OVER,61,0,2,809,SushigoAgentBKP,53.0,38.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-648796784,SushiGo,3,GAME_OVER,63,0,2,810,Basic MCTS,37.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1482145887,SushiGo,3,GAME_OVER,60,0,2,811,SushigoAgentBKP,68.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1269616343,SushiGo,3,GAME_OVER,61,0,2,812,RandomPlayer,66.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-50429504,SushiGo,3,GAME_OVER,60,0,2,813,SushigoAgentBKP,37.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-149474921,SushiGo,3,GAME_OVER,60,0,2,814,SushigoAgentBKP,56.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+295675364,SushiGo,3,GAME_OVER,60,0,2,815,SushigoAgentBKP,51.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-478788025,SushiGo,3,GAME_OVER,61,0,2,816,Basic MCTS,34.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-897471950,SushiGo,3,GAME_OVER,60,0,2,817,SushigoAgentBKP,71.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-646966409,SushiGo,3,GAME_OVER,60,0,2,818,SushigoAgentBKP,58.0,47.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1179919827,SushiGo,3,GAME_OVER,60,0,2,819,Basic MCTS,28.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-689060150,SushiGo,3,GAME_OVER,63,0,2,820,Basic MCTS,40.0,78.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2037677123,SushiGo,3,GAME_OVER,60,0,2,821,SushigoAgentBKP,35.0,49.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1453589377,SushiGo,3,GAME_OVER,60,0,2,822,Basic MCTS,35.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-808427743,SushiGo,3,GAME_OVER,61,0,2,823,RandomPlayer,68.0,44.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1443945513,SushiGo,3,GAME_OVER,62,0,2,824,RandomPlayer,54.0,37.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-271672301,SushiGo,3,GAME_OVER,60,0,2,825,SushigoAgentBKP,46.0,41.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1108924689,SushiGo,3,GAME_OVER,60,0,2,826,SushigoAgentBKP,66.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+436585387,SushiGo,3,GAME_OVER,60,0,2,827,SushigoAgentBKP,45.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-2146852382,SushiGo,3,GAME_OVER,60,0,2,828,Basic MCTS,49.0,75.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+603078091,SushiGo,3,GAME_OVER,61,0,2,829,Basic MCTS,33.0,80.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1115699322,SushiGo,3,GAME_OVER,63,0,2,830,RandomPlayer,82.0,49.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1337924112,SushiGo,3,GAME_OVER,60,0,2,831,SushigoAgentBKP,39.0,48.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+465543649,SushiGo,3,GAME_OVER,60,0,2,832,Basic MCTS,37.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+393678747,SushiGo,3,GAME_OVER,61,0,2,833,RandomPlayer,49.0,30.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1017800370,SushiGo,3,GAME_OVER,61,0,2,834,SushigoAgentBKP,58.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2020035647,SushiGo,3,GAME_OVER,61,0,2,835,SushigoAgentBKP,54.0,53.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1226244363,SushiGo,3,GAME_OVER,61,0,2,836,Basic MCTS,41.0,58.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-336989498,SushiGo,3,GAME_OVER,61,0,2,837,SushigoAgentBKP,61.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1681931684,SushiGo,3,GAME_OVER,60,0,2,838,Basic MCTS,37.0,83.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1047454061,SushiGo,3,GAME_OVER,61,0,2,839,RandomPlayer,51.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+375992546,SushiGo,3,GAME_OVER,60,0,2,840,Basic MCTS,51.0,80.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1312697133,SushiGo,3,GAME_OVER,60,0,2,841,Basic MCTS,47.0,86.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1863211712,SushiGo,3,GAME_OVER,61,0,2,842,RandomPlayer,60.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1358432481,SushiGo,3,GAME_OVER,62,0,2,843,SushigoAgentBKP,55.0,51.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-808563853,SushiGo,3,GAME_OVER,60,0,2,844,SushigoAgentBKP,54.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1339844735,SushiGo,3,GAME_OVER,61,0,2,845,RandomPlayer,50.0,61.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-51243372,SushiGo,3,GAME_OVER,60,0,2,846,Basic MCTS,39.0,61.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+548929036,SushiGo,3,GAME_OVER,61,0,2,847,RandomPlayer,75.0,37.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2056345636,SushiGo,3,GAME_OVER,60,0,2,848,RandomPlayer,47.0,57.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1633221107,SushiGo,3,GAME_OVER,61,0,2,849,Basic MCTS,40.0,67.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1698650140,SushiGo,3,GAME_OVER,61,0,2,850,RandomPlayer,65.0,49.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1904076324,SushiGo,3,GAME_OVER,60,0,2,851,RandomPlayer,64.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+532329231,SushiGo,3,GAME_OVER,61,0,2,852,SushigoAgentBKP,37.0,45.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-892349895,SushiGo,3,GAME_OVER,60,0,2,853,Basic MCTS,36.0,57.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1160921047,SushiGo,3,GAME_OVER,60,0,2,854,Basic MCTS,30.0,51.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+610411857,SushiGo,3,GAME_OVER,66,0,2,855,RandomPlayer,64.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-834596652,SushiGo,3,GAME_OVER,60,0,2,856,SushigoAgentBKP,60.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+886562284,SushiGo,3,GAME_OVER,60,0,2,857,SushigoAgentBKP,52.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+135651517,SushiGo,3,GAME_OVER,60,0,2,858,RandomPlayer,38.0,62.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1569668785,SushiGo,3,GAME_OVER,62,0,2,859,Basic MCTS,44.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1658276116,SushiGo,3,GAME_OVER,60,0,2,860,SushigoAgentBKP,67.0,37.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+447974191,SushiGo,3,GAME_OVER,60,0,2,861,RandomPlayer,45.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+321189364,SushiGo,3,GAME_OVER,61,0,2,862,Basic MCTS,48.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1880754250,SushiGo,3,GAME_OVER,60,0,2,863,SushigoAgentBKP,51.0,46.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-615938733,SushiGo,3,GAME_OVER,60,0,2,864,Basic MCTS,46.0,76.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+2082018016,SushiGo,3,GAME_OVER,60,0,2,865,Basic MCTS,48.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1785149151,SushiGo,3,GAME_OVER,62,0,2,866,Basic MCTS,45.0,60.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-56931921,SushiGo,3,GAME_OVER,60,0,2,867,SushigoAgentBKP,72.0,49.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1408621954,SushiGo,3,GAME_OVER,61,0,2,868,SushigoAgentBKP,49.0,55.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1080450804,SushiGo,3,GAME_OVER,65,0,2,869,Basic MCTS,53.0,61.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+869540407,SushiGo,3,GAME_OVER,60,0,2,870,SushigoAgentBKP,70.0,45.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+544198473,SushiGo,3,GAME_OVER,61,0,2,871,SushigoAgentBKP,51.0,57.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+111287014,SushiGo,3,GAME_OVER,61,0,2,872,Basic MCTS,35.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-479326044,SushiGo,3,GAME_OVER,61,0,2,873,SushigoAgentBKP,51.0,42.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1455319914,SushiGo,3,GAME_OVER,60,0,2,874,SushigoAgentBKP,108.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1377188931,SushiGo,3,GAME_OVER,60,0,2,875,RandomPlayer,53.0,49.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1395625100,SushiGo,3,GAME_OVER,61,0,2,876,Basic MCTS,36.0,76.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1549324687,SushiGo,3,GAME_OVER,60,0,2,877,Basic MCTS,45.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+459762453,SushiGo,3,GAME_OVER,61,0,2,878,RandomPlayer,61.0,30.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1056824875,SushiGo,3,GAME_OVER,60,0,2,879,SushigoAgentBKP,73.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-447750242,SushiGo,3,GAME_OVER,60,0,2,880,SushigoAgentBKP,53.0,52.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-634734779,SushiGo,3,GAME_OVER,62,0,2,881,Basic MCTS,32.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-300795939,SushiGo,3,GAME_OVER,62,0,2,882,SushigoAgentBKP,57.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+260368295,SushiGo,3,GAME_OVER,60,0,2,883,RandomPlayer,45.0,49.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-559460031,SushiGo,3,GAME_OVER,60,0,2,884,Basic MCTS,34.0,83.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1647999630,SushiGo,3,GAME_OVER,60,0,2,885,RandomPlayer,44.0,57.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1732719849,SushiGo,3,GAME_OVER,64,0,2,886,RandomPlayer,63.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1991482642,SushiGo,3,GAME_OVER,60,0,2,887,SushigoAgentBKP,30.0,41.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+2081416849,SushiGo,3,GAME_OVER,61,0,2,888,Basic MCTS,56.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-852582016,SushiGo,3,GAME_OVER,60,0,2,889,Basic MCTS,35.0,73.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1303653018,SushiGo,3,GAME_OVER,61,0,2,890,RandomPlayer,51.0,41.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1465567670,SushiGo,3,GAME_OVER,63,0,2,891,Basic MCTS,36.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1117129701,SushiGo,3,GAME_OVER,61,0,2,892,SushigoAgentBKP,83.0,48.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-128046567,SushiGo,3,GAME_OVER,61,0,2,893,RandomPlayer,43.0,55.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+2047392168,SushiGo,3,GAME_OVER,63,0,2,894,Basic MCTS,39.0,72.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-4421177,SushiGo,3,GAME_OVER,62,0,2,895,RandomPlayer,62.0,48.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1224121257,SushiGo,3,GAME_OVER,60,0,2,896,SushigoAgentBKP,34.0,45.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1767262024,SushiGo,3,GAME_OVER,60,0,2,897,Basic MCTS,50.0,89.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1803145747,SushiGo,3,GAME_OVER,60,0,2,898,RandomPlayer,69.0,51.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+873452784,SushiGo,3,GAME_OVER,60,0,2,899,RandomPlayer,61.0,47.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1380748675,SushiGo,3,GAME_OVER,62,0,2,900,SushigoAgentBKP,80.0,36.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1152097506,SushiGo,3,GAME_OVER,60,0,2,901,RandomPlayer,46.0,61.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-900504678,SushiGo,3,GAME_OVER,61,0,2,902,RandomPlayer,51.0,36.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-2091371095,SushiGo,3,GAME_OVER,60,0,2,903,Basic MCTS,40.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+368499597,SushiGo,3,GAME_OVER,61,0,2,904,SushigoAgentBKP,82.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-318902205,SushiGo,3,GAME_OVER,62,0,2,905,RandomPlayer,45.0,55.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1000465301,SushiGo,3,GAME_OVER,61,0,2,906,Basic MCTS,47.0,74.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-412702416,SushiGo,3,GAME_OVER,60,0,2,907,SushigoAgentBKP,58.0,43.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1668853399,SushiGo,3,GAME_OVER,62,0,2,908,SushigoAgentBKP,79.0,44.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1972832962,SushiGo,3,GAME_OVER,60,0,2,909,RandomPlayer,47.0,39.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1373926304,SushiGo,3,GAME_OVER,65,0,2,910,RandomPlayer,78.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1995023401,SushiGo,3,GAME_OVER,64,0,2,911,RandomPlayer,61.0,61.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1587042646,SushiGo,3,GAME_OVER,61,0,2,912,SushigoAgentBKP,58.0,34.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1962903986,SushiGo,3,GAME_OVER,61,0,2,913,SushigoAgentBKP,51.0,40.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-168249406,SushiGo,3,GAME_OVER,60,0,2,914,Basic MCTS,35.0,63.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1788110858,SushiGo,3,GAME_OVER,61,0,2,915,RandomPlayer,48.0,50.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1887960662,SushiGo,3,GAME_OVER,61,0,2,916,RandomPlayer,56.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1391086608,SushiGo,3,GAME_OVER,61,0,2,917,RandomPlayer,56.0,47.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1835756241,SushiGo,3,GAME_OVER,60,0,2,918,Basic MCTS,41.0,91.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1927022260,SushiGo,3,GAME_OVER,63,0,2,919,RandomPlayer,79.0,47.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-813645355,SushiGo,3,GAME_OVER,63,0,2,920,SushigoAgentBKP,69.0,55.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+81516533,SushiGo,3,GAME_OVER,60,0,2,921,Basic MCTS,35.0,58.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1441573611,SushiGo,3,GAME_OVER,63,0,2,922,RandomPlayer,79.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1153014787,SushiGo,3,GAME_OVER,62,0,2,923,RandomPlayer,53.0,53.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1379202145,SushiGo,3,GAME_OVER,61,0,2,924,Basic MCTS,47.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+635958834,SushiGo,3,GAME_OVER,60,0,2,925,SushigoAgentBKP,66.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1257076436,SushiGo,3,GAME_OVER,61,0,2,926,RandomPlayer,85.0,43.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-978421716,SushiGo,3,GAME_OVER,61,0,2,927,SushigoAgentBKP,49.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1114624844,SushiGo,3,GAME_OVER,60,0,2,928,SushigoAgentBKP,67.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-320496900,SushiGo,3,GAME_OVER,60,0,2,929,SushigoAgentBKP,89.0,34.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1296823508,SushiGo,3,GAME_OVER,63,0,2,930,RandomPlayer,49.0,44.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+1394224232,SushiGo,3,GAME_OVER,62,0,2,931,Basic MCTS,35.0,56.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-769964959,SushiGo,3,GAME_OVER,60,0,2,932,SushigoAgentBKP,74.0,42.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-846819599,SushiGo,3,GAME_OVER,62,0,2,933,RandomPlayer,40.0,51.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-614840818,SushiGo,3,GAME_OVER,63,0,2,934,Basic MCTS,43.0,66.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1797664393,SushiGo,3,GAME_OVER,60,0,2,935,SushigoAgentBKP,39.0,44.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1095937632,SushiGo,3,GAME_OVER,60,0,2,936,Basic MCTS,44.0,81.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1958280921,SushiGo,3,GAME_OVER,65,0,2,937,Basic MCTS,43.0,54.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+706016073,SushiGo,3,GAME_OVER,60,0,2,938,SushigoAgentBKP,68.0,45.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+1588654863,SushiGo,3,GAME_OVER,60,0,2,939,RandomPlayer,46.0,55.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-91906735,SushiGo,3,GAME_OVER,62,0,2,940,RandomPlayer,78.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+509989517,SushiGo,3,GAME_OVER,60,0,2,941,SushigoAgentBKP,64.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1581557571,SushiGo,3,GAME_OVER,61,0,2,942,RandomPlayer,51.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1983955438,SushiGo,3,GAME_OVER,61,0,2,943,RandomPlayer,64.0,34.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2070936374,SushiGo,3,GAME_OVER,65,0,2,944,SushigoAgentBKP,41.0,44.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+1195966262,SushiGo,3,GAME_OVER,60,0,2,945,Basic MCTS,45.0,73.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1070727378,SushiGo,3,GAME_OVER,61,0,2,946,Basic MCTS,51.0,71.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1534579506,SushiGo,3,GAME_OVER,60,0,2,947,SushigoAgentBKP,60.0,46.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-632362863,SushiGo,3,GAME_OVER,60,0,2,948,RandomPlayer,77.0,53.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+264259771,SushiGo,3,GAME_OVER,60,0,2,949,RandomPlayer,37.0,56.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-1085189919,SushiGo,3,GAME_OVER,60,0,2,950,RandomPlayer,39.0,58.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-26345240,SushiGo,3,GAME_OVER,62,0,2,951,Basic MCTS,29.0,62.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1387184999,SushiGo,3,GAME_OVER,61,0,2,952,Basic MCTS,36.0,66.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1321195916,SushiGo,3,GAME_OVER,61,0,2,953,RandomPlayer,61.0,46.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1898667566,SushiGo,3,GAME_OVER,60,0,2,954,SushigoAgentBKP,41.0,52.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-792379422,SushiGo,3,GAME_OVER,60,0,2,955,SushigoAgentBKP,62.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+2077076873,SushiGo,3,GAME_OVER,62,0,2,956,RandomPlayer,67.0,38.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1494892765,SushiGo,3,GAME_OVER,61,0,2,957,SushigoAgentBKP,58.0,47.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+470793989,SushiGo,3,GAME_OVER,60,0,2,958,SushigoAgentBKP,73.0,40.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+685866700,SushiGo,3,GAME_OVER,60,0,2,959,SushigoAgentBKP,55.0,47.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1969139663,SushiGo,3,GAME_OVER,60,0,2,960,Basic MCTS,43.0,68.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1167601699,SushiGo,3,GAME_OVER,61,0,2,961,Basic MCTS,49.0,67.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1004728181,SushiGo,3,GAME_OVER,61,0,2,962,SushigoAgentBKP,62.0,35.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+936829569,SushiGo,3,GAME_OVER,60,0,2,963,RandomPlayer,59.0,56.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1861612190,SushiGo,3,GAME_OVER,62,0,2,964,RandomPlayer,67.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1734700063,SushiGo,3,GAME_OVER,63,0,2,965,RandomPlayer,69.0,42.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-784077541,SushiGo,3,GAME_OVER,62,0,2,966,SushigoAgentBKP,56.0,55.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+823063450,SushiGo,3,GAME_OVER,60,0,2,967,Basic MCTS,41.0,55.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+579493861,SushiGo,3,GAME_OVER,64,0,2,968,RandomPlayer,64.0,33.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1066630027,SushiGo,3,GAME_OVER,60,0,2,969,SushigoAgentBKP,57.0,37.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+1471442576,SushiGo,3,GAME_OVER,60,0,2,970,SushigoAgentBKP,65.0,38.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-644181688,SushiGo,3,GAME_OVER,61,0,2,971,SushigoAgentBKP,78.0,39.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-1379551346,SushiGo,3,GAME_OVER,61,0,2,972,RandomPlayer,64.0,24.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1977233400,SushiGo,3,GAME_OVER,60,0,2,973,SushigoAgentBKP,57.0,44.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-161143051,SushiGo,3,GAME_OVER,62,0,2,974,Basic MCTS,38.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1104167581,SushiGo,3,GAME_OVER,61,0,2,975,RandomPlayer,67.0,39.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-111520317,SushiGo,3,GAME_OVER,60,0,2,976,SushigoAgentBKP,46.0,43.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+511856167,SushiGo,3,GAME_OVER,61,0,2,977,SushigoAgentBKP,53.0,53.0,RandomPlayer,1,SushigoAgentBKP,1,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,-1
+-1179754474,SushiGo,3,GAME_OVER,62,0,2,978,Basic MCTS,41.0,97.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1462736322,SushiGo,3,GAME_OVER,61,0,2,979,RandomPlayer,60.0,59.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1981944258,SushiGo,3,GAME_OVER,63,0,2,980,SushigoAgentBKP,46.0,39.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-1961356774,SushiGo,3,GAME_OVER,60,0,2,981,Basic MCTS,40.0,101.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1601540813,SushiGo,3,GAME_OVER,61,0,2,982,RandomPlayer,60.0,50.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1962799412,SushiGo,3,GAME_OVER,60,0,2,983,SushigoAgentBKP,57.0,31.0,RandomPlayer,1,SushigoAgentBKP,1,2,2,RandomPlayer,RandomPlayer,SushigoAgentBKP,1
+-453177327,SushiGo,3,GAME_OVER,63,0,2,984,Basic MCTS,36.0,72.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1526588965,SushiGo,3,GAME_OVER,60,0,2,985,Basic MCTS,43.0,70.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1252630948,SushiGo,3,GAME_OVER,61,0,2,986,RandomPlayer,75.0,35.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1037714255,SushiGo,3,GAME_OVER,62,0,2,987,SushigoAgentBKP,51.0,53.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-1757832470,SushiGo,3,GAME_OVER,60,0,2,988,Basic MCTS,36.0,65.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1206564719,SushiGo,3,GAME_OVER,66,0,2,989,RandomPlayer,84.0,27.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+410360254,SushiGo,3,GAME_OVER,61,0,2,990,SushigoAgentBKP,48.0,51.0,RandomPlayer,2,SushigoAgentBKP,2,1,1,RandomPlayer,RandomPlayer,SushigoAgentBKP,0
+-70292080,SushiGo,3,GAME_OVER,60,0,2,991,Basic MCTS,31.0,73.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+113558680,SushiGo,3,GAME_OVER,60,0,2,992,Basic MCTS,35.0,82.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+-1602003737,SushiGo,3,GAME_OVER,62,0,2,993,RandomPlayer,40.0,49.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+-2124145162,SushiGo,3,GAME_OVER,60,0,2,994,Basic MCTS,36.0,86.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1536959070,SushiGo,3,GAME_OVER,63,0,2,995,Basic MCTS,53.0,69.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1430949171,SushiGo,3,GAME_OVER,60,0,2,996,SushigoAgentBKP,67.0,41.0,Basic MCTS,1,SushigoAgentBKP,1,2,2,Basic MCTS,Basic MCTS,SushigoAgentBKP,1
+-164938662,SushiGo,3,GAME_OVER,60,0,2,997,RandomPlayer,51.0,25.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1
+-1750343608,SushiGo,3,GAME_OVER,60,0,2,998,Basic MCTS,59.0,79.0,SushigoAgentBKP,2,Basic MCTS,2,1,1,SushigoAgentBKP,SushigoAgentBKP,Basic MCTS,0
+1179943163,SushiGo,3,GAME_OVER,60,0,2,999,RandomPlayer,48.0,62.0,SushigoAgentBKP,2,RandomPlayer,2,1,1,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,0
+1789127973,SushiGo,3,GAME_OVER,62,0,2,1000,RandomPlayer,74.0,40.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1449633404,SushiGo,3,GAME_OVER,60,0,2,1001,RandomPlayer,45.0,35.0,SushigoAgentBKP,1,RandomPlayer,1,2,2,SushigoAgentBKP,SushigoAgentBKP,RandomPlayer,1

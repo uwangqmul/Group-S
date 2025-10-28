@@ -1,4 +1,4 @@
-//package players.mcMiniMaxSearch;
+package players.mcMiniMaxSearch;//package players.mcMiniMaxSearch;
 //
 //import core.AbstractGameState;
 //import core.AbstractPlayer;

@@ -8,15 +8,15 @@ import games.sushigo.actions.ChooseCard;
 import games.sushigo.cards.SGCard;
 import games.sushigo.cards.SGCard.SGCardType;
 import core.components.Card;
-import core.components.Deck;
-import players.mcMiniMaxSearch.SGHeuristic.*;
+import players.basicMCTS.BasicMCTSParams;
+import players.basicMCTS.BasicMCTSPlayer;
+
 import java.util.List;
-import java.util.*;
 
-public abstract class SushigoAgent extends AbstractPlayer{
+public class SushigoAgentBKP extends AbstractPlayer{
 
-    public SushigoAgent() {
-        super(null, "SushiGoAgent");
+    public SushigoAgentBKP() {
+        super(null, "SushigoAgentBKP");
     }
 
     @Override
@@ -97,4 +97,9 @@ public abstract class SushigoAgent extends AbstractPlayer{
 //                return 0.0;
 //    }
 //    }
+
+    @Override
+    public SushigoAgentBKP copy() {
+        return new SushigoAgentBKP();
+    }
 }

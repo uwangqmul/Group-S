@@ -13,6 +13,7 @@ import org.json.simple.parser.ParseException;
 import players.PlayerFactory;
 import players.PlayerType;
 import players.basicMCTS.BasicMCTSPlayer;
+import players.mcMiniMaxSearch.SushigoAgentBKP;
 import players.mcts.MCTSPlayer;
 import players.rmhc.RMHCPlayer;
 import players.simple.OSLAPlayer;
@@ -69,8 +70,9 @@ public class RunGames implements IGameRunner {
        //     agents.add(new MCTSPlayer());
             agents.add(new BasicMCTSPlayer());
             agents.add(new RandomPlayer());
-            agents.add(new RMHCPlayer());
-            agents.add(new OSLAPlayer());
+            agents.add(new SushigoAgentBKP());
+//            agents.add(new RMHCPlayer());
+//            agents.add(new OSLAPlayer());
         }
         runGames.agents = agents;
 

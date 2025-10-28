@@ -1,0 +1,69 @@
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1000, GamesPerMatchup: 1000
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	Basic MCTS
+	0.000	RandomPlayer
+	0.000	SushigoAgentBKP
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.999	1.000	1.000	
+1.000	1.000	1.000	
+1.000	1.000	0.999	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for RandomPlayer
+		RandomPlayer
+		SushigoAgentBKP
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	Basic MCTS
+	0.000	RandomPlayer
+	0.000	SushigoAgentBKP
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.999	1.000	1.000	
+1.000	1.000	1.000	
+1.000	1.000	0.999	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for RandomPlayer
+		RandomPlayer
+		SushigoAgentBKP
+
+Basic MCTS got 666.00 points. Basic MCTS won 66.6% of the 1000 games of the tournament. Basic MCTS won 100.0% of the 666 games it played during the tournament.
+Basic MCTS got a mean score of 68.97.
+Basic MCTS won 100.0% of the 333 games against RandomPlayer.
+Basic MCTS won 100.0% of the 333 games against SushigoAgentBKP.
+
+RandomPlayer got 203.00 points. RandomPlayer won 20.2% of the 1000 games of the tournament. RandomPlayer won 30.3% of the 667 games it played during the tournament.
+RandomPlayer got a mean score of 45.79.
+RandomPlayer won 0.0% of the 333 games against Basic MCTS.
+RandomPlayer won 60.5% of the 334 games against SushigoAgentBKP.
+
+SushigoAgentBKP got 131.00 points. SushigoAgentBKP won 13.0% of the 1000 games of the tournament. SushigoAgentBKP won 19.5% of the 667 games it played during the tournament.
+SushigoAgentBKP got a mean score of 43.13.
+SushigoAgentBKP won 0.0% of the 333 games against Basic MCTS.
+SushigoAgentBKP won 38.9% of the 334 games against RandomPlayer.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+RandomPlayer: Win rate 0.30 +/- 0.018	Mean Ordinal 1.69 +/- 0.02
+SushigoAgentBKP: Win rate 0.20 +/- 0.015	Mean Ordinal 1.80 +/- 0.02
+
+Alpha-rank by Win Rate
+	Basic MCTS                    	1.00
+	RandomPlayer                  	0.00
+	SushigoAgentBKP               	0.00
+
+Alpha-rank by Ordinal Position
+	Basic MCTS                    	1.00
+	RandomPlayer                  	0.00
+	SushigoAgentBKP               	0.00
+
